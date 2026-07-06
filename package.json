@@ -1,0 +1,25 @@
+{
+  "name": "every-day-eng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "import": "node scripts/import-words.js",
+    "parse": "node scripts/parse-pdf.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "pdf-parse": "^2.4.5"
+  }
+}

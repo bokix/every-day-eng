@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>每日单词</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <!-- 顶栏 -->
+  <header class="topbar">
+    <div class="brand">每日单词</div>
+    <nav class="tabs">
+      <button class="tab active" data-view="study">学习</button>
+      <button class="tab" data-view="stats">统计</button>
+      <button class="tab" data-view="settings">设置</button>
+    </nav>
+  </header>
+
+  <!-- 学习视图 -->
+  <section id="view-study" class="view active">
+    <div class="overview-bar" id="overviewBar"></div>
+
+    <!-- 仪表盘(未开始/暂停时) -->
+    <div id="dashboard" class="dashboard">
+      <div class="dash-card">
+        <div class="dash-num" id="d-todayNew">0</div>
+        <div class="dash-label">今日新词</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-num" id="d-due">0</div>
+        <div class="dash-label">待复习</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-num" id="d-streak">0</div>
+        <div class="dash-label">连续天数</div>
+      </div>
+      <div class="dash-card">
+        <div class="dash-num" id="d-daysLeft">0</div>
+        <div class="dash-label">距开学</div>
+      </div>
+      <div class="dash-wide">
+        <div class="progress-wrap">
+          <div class="progress-text" id="progressText">整体进度 0 / 688</div>
+          <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+        </div>
+        <div class="dash-btns">
+          <button class="btn-primary btn-big" id="btnStart">开始今天的学习</button>
+          <button class="btn-secondary" id="btnFreeReview">自由复习</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 卡片区 -->
+    <div id="cardArea" class="card-area hidden">
+      <div class="card-meta">
+        <span id="cardTag" class="card-tag">新词</span>
+        <span id="cardCount" class="card-count">1 / 10</span>
+        <button class="btn-exit hidden" id="btnExit" title="退出本轮">✕ 退出</button>
+      </div>
+
+      <div class="card" id="card">
+        <div class="card-face card-front">
+          <div class="word" id="cardWord">word</div>
+          <button class="btn-speak" id="btnSpeak" title="发音">🔊</button>
+          <div class="ph-legend" id="cardLegend">
+            <span><i style="background:#e74c3c"></i>元音</span>
+            <span><i style="background:#e67e22"></i>元音组合</span>
+            <span><i style="background:#27ae60"></i>辅音组合</span>
+            <span><i style="background:#2980b9"></i>辅音</span>
+            <span><i style="background:#c0c0c0"></i>音节</span>
+          </div>
+          <div class="phonetic hidden" id="cardPhonetic"></div>
+          <div class="meaning hidden" id="cardMeaning"></div>
+          <div class="mnemonic hidden" id="cardMnemonic"></div>
+        </div>
+      </div>
+
+      <div class="card-actions">
+        <button class="btn-action btn-flip" id="btnFlip">显示释义</button>
+      </div>
+      <div class="card-actions hidden" id="gradeActions">
+        <button class="btn-action btn-wrong" id="btnWrong">不记得</button>
+        <button class="btn-action btn-right" id="btnRight">记得</button>
+      </div>
+
+      <div class="session-done hidden" id="sessionDone">
+        <div class="done-emoji">🎉</div>
+        <div class="done-title">本轮完成!</div>
+        <div class="done-info" id="doneInfo"></div>
+        <button class="btn-primary" id="btnBackHome">返回首页</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 统计视图 -->
+  <section id="view-stats" class="view">
+    <h2 class="view-title">学习统计</h2>
+    <div class="stats-grid" id="statsGrid"></div>
+    <h3 class="block-title">每日答题(近 30 天)</h3>
+    <div class="chart" id="chart"></div>
+    <h3 class="block-title">薄弱词(错得多)</h3>
+    <div class="weak-list" id="weakList"></div>
+  </section>
+
+  <!-- 设置视图 -->
+  <section id="view-settings" class="view">
+    <h2 class="view-title">设置</h2>
+    <div class="settings-form">
+      <label>每天新词数量
+        <input type="number" id="setDailyNew" min="10" max="100" value="50">
+      </label>
+      <label>假期截止日期
+        <input type="date" id="setEndDate" value="2026-09-01">
+      </label>
+      <button class="btn-primary" id="btnSaveSettings">保存</button>
+    </div>
+  </section>
+
+  <!-- 单词清单弹层 -->
+  <div class="modal hidden" id="wordListModal">
+    <div class="modal-box">
+      <button class="modal-close" id="wordListClose">×</button>
+      <div id="wordListBody"></div>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

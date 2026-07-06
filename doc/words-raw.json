@@ -1,0 +1,4130 @@
+[
+  {
+    "freq": 1243,
+    "word": "make",
+    "phonetic": "[meik]",
+    "meaning": "v.制造,做,建造"
+  },
+  {
+    "freq": 681,
+    "word": "because",
+    "phonetic": "[bɪˈkɒz]",
+    "meaning": "conj.因为,由于"
+  },
+  {
+    "freq": 631,
+    "word": "other",
+    "phonetic": "[ˈʌðə(r)]",
+    "meaning": "a.其他的,别的,另外的"
+  },
+  {
+    "freq": 569,
+    "word": "know",
+    "phonetic": "[nəu]",
+    "meaning": "v.知道,认识"
+  },
+  {
+    "freq": 525,
+    "word": "learn",
+    "phonetic": "[lə:n]",
+    "meaning": "v.学会,学习"
+  },
+  {
+    "freq": 409,
+    "word": "should",
+    "phonetic": "[ʃud]",
+    "meaning": "aux.应该,将要,可能"
+  },
+  {
+    "freq": 400,
+    "word": "most",
+    "phonetic": "[məust]",
+    "meaning": "ad.最 a.最多的"
+  },
+  {
+    "freq": 388,
+    "word": "play",
+    "phonetic": "[plei]",
+    "meaning": "v.玩,扮演 n.游戏,戏剧,比赛"
+  },
+  {
+    "freq": 377,
+    "word": "need",
+    "phonetic": "[ni:d]",
+    "meaning": "v./n.需要,必需"
+  },
+  {
+    "freq": 367,
+    "word": "just",
+    "phonetic": "[dӡʌst]",
+    "meaning": "ad.正好,仅仅,刚才 a.公平 的"
+  },
+  {
+    "freq": 327,
+    "word": "different",
+    "phonetic": "[ˈdɪfrənt]",
+    "meaning": "a.不同的"
+  },
+  {
+    "freq": 323,
+    "word": "keep",
+    "phonetic": "[ki:p]",
+    "meaning": "v.保持,继续,遵守"
+  },
+  {
+    "freq": 297,
+    "word": "start",
+    "phonetic": "[stɑ:t]",
+    "meaning": "v./n.开始,出发"
+  },
+  {
+    "freq": 286,
+    "word": "great",
+    "phonetic": "[greit]",
+    "meaning": "a.伟大的 ad.好极了"
+  },
+  {
+    "freq": 286,
+    "word": "show",
+    "phonetic": "[ʃəu]",
+    "meaning": "v.展示,证明,显现 n.表演"
+  },
+  {
+    "freq": 281,
+    "word": "little",
+    "phonetic": "['litl]",
+    "meaning": "a.小的,少的,短的"
+  },
+  {
+    "freq": 275,
+    "word": "last",
+    "phonetic": "[lɑ:st]",
+    "meaning": "a./ad.最后的 v.持续"
+  },
+  {
+    "freq": 268,
+    "word": "right",
+    "phonetic": "[rait]",
+    "meaning": "a./ad.对的,右边的 n.权利"
+  },
+  {
+    "freq": 267,
+    "word": "follow",
+    "phonetic": "['fɔləu]",
+    "meaning": "v.跟随,沿着,遵循"
+  },
+  {
+    "freq": 259,
+    "word": "become",
+    "phonetic": "[bi'kʌm]",
+    "meaning": "v.变成,变得"
+  },
+  {
+    "freq": 258,
+    "word": "important",
+    "phonetic": "[im'pɔ:tənt]",
+    "meaning": "a.重要的"
+  },
+  {
+    "freq": 247,
+    "word": "visit",
+    "phonetic": "[ˈvɪzɪt]",
+    "meaning": "n./v.拜访,参观"
+  },
+  {
+    "freq": 245,
+    "word": "interest",
+    "phonetic": "['intrist]",
+    "meaning": "n.兴趣,利息"
+  },
+  {
+    "freq": 243,
+    "word": "around",
+    "phonetic": "[ə'raund]",
+    "meaning": "ad.在周围,到处,大约"
+  },
+  {
+    "freq": 232,
+    "word": "problem",
+    "phonetic": "['prɔbləm]",
+    "meaning": "n.问题,难题"
+  },
+  {
+    "freq": 217,
+    "word": "country",
+    "phonetic": "['kʌntri]",
+    "meaning": "n.国家,乡村"
+  },
+  {
+    "freq": 210,
+    "word": "really",
+    "phonetic": "['riəli]",
+    "meaning": "ad.真正地,实际上"
+  },
+  {
+    "freq": 208,
+    "word": "mean",
+    "phonetic": "[mi:n]",
+    "meaning": "v.意思是,意味 n.平均值"
+  },
+  {
+    "freq": 206,
+    "word": "stop",
+    "phonetic": "[stɔp]",
+    "meaning": "n./v.停止,阻止,车站"
+  },
+  {
+    "freq": 206,
+    "word": "change",
+    "phonetic": "[tʃeindӡ]",
+    "meaning": "v.改变 n.变化,零钱"
+  },
+  {
+    "freq": 204,
+    "word": "kind",
+    "phonetic": "[kaind]",
+    "meaning": "n.种类 a.亲切的,善良的"
+  },
+  {
+    "freq": 202,
+    "word": "begin",
+    "phonetic": "[bi'gin]",
+    "meaning": "v.开始"
+  },
+  {
+    "freq": 201,
+    "word": "according",
+    "phonetic": "[ə'kɔ:diŋ]",
+    "meaning": "ad.根据,依照"
+  },
+  {
+    "freq": 201,
+    "word": "hear",
+    "phonetic": "[hɪə(r)]",
+    "meaning": "v.听,听到"
+  },
+  {
+    "freq": 198,
+    "word": "young",
+    "phonetic": "[jʌŋ]",
+    "meaning": "a.年轻的"
+  },
+  {
+    "freq": 196,
+    "word": "animal",
+    "phonetic": "['æniməl]",
+    "meaning": "n.动物"
+  },
+  {
+    "freq": 195,
+    "word": "must",
+    "phonetic": "[mʌst]",
+    "meaning": "aux.必须,一定"
+  },
+  {
+    "freq": 193,
+    "word": "while",
+    "phonetic": "[(h)wail]",
+    "meaning": "conj.当…的时候,虽然"
+  },
+  {
+    "freq": 188,
+    "word": "enjoy",
+    "phonetic": "[in'dӡɔi]",
+    "meaning": "v.享受,喜欢"
+  },
+  {
+    "freq": 187,
+    "word": "stay",
+    "phonetic": "[stei]",
+    "meaning": "v./n.停留,保持"
+  },
+  {
+    "freq": 180,
+    "word": "move",
+    "phonetic": "[mu:v]",
+    "meaning": "v.移动,感动"
+  },
+  {
+    "freq": 179,
+    "word": "same",
+    "phonetic": "[seim]",
+    "meaning": "a.相同的"
+  },
+  {
+    "freq": 171,
+    "word": "sure",
+    "phonetic": "[ʃʊə(r)]",
+    "meaning": "a.肯定的,确信的 ad.当然"
+  },
+  {
+    "freq": 169,
+    "word": "speak",
+    "phonetic": "[spi:k]",
+    "meaning": "v.讲,说话,发言,演讲"
+  },
+  {
+    "freq": 167,
+    "word": "Pay",
+    "phonetic": "[pei]",
+    "meaning": "v.付款,支付 n.工资,付款"
+  },
+  {
+    "freq": 166,
+    "word": "spend",
+    "phonetic": "[spend]",
+    "meaning": "v.花费,度过 n.费用"
+  },
+  {
+    "freq": 166,
+    "word": "remember",
+    "phonetic": "[rɪˈmembə(r)]",
+    "meaning": "v.记得,想起,回忆"
+  },
+  {
+    "freq": 164,
+    "word": "plant",
+    "phonetic": "[plɑ:nt]",
+    "meaning": "n.植物,工厂 v.种植"
+  },
+  {
+    "freq": 162,
+    "word": "grow",
+    "phonetic": "[grəu]",
+    "meaning": "v.生长,种植,发展"
+  },
+  {
+    "freq": 161,
+    "word": "travel",
+    "phonetic": "['trævl]",
+    "meaning": "n./v.旅行,移动"
+  },
+  {
+    "freq": 161,
+    "word": "turn",
+    "phonetic": "[tə:n]",
+    "meaning": "v./n.转动,转向,旋转"
+  },
+  {
+    "freq": 160,
+    "word": "hard",
+    "phonetic": "[hɑ:d]",
+    "meaning": "a.硬的,困难的,严厉的"
+  },
+  {
+    "freq": 158,
+    "word": "usually",
+    "phonetic": "['ju:ӡuəli]",
+    "meaning": "ad.通常,经常"
+  },
+  {
+    "freq": 157,
+    "word": "true",
+    "phonetic": "[tru:]",
+    "meaning": "a.真的,真实的"
+  },
+  {
+    "freq": 157,
+    "word": "another",
+    "phonetic": "[əˈnʌðə(r)]",
+    "meaning": "pron./a.再一个,另一个"
+  },
+  {
+    "freq": 157,
+    "word": "listen",
+    "phonetic": "['lisn]",
+    "meaning": "v./n.听,倾听"
+  },
+  {
+    "freq": 155,
+    "word": "hold",
+    "phonetic": "[həuld]",
+    "meaning": "v.拿,保持,掌握 n.控制,保留"
+  },
+  {
+    "freq": 153,
+    "word": "special",
+    "phonetic": "['speʃəl]",
+    "meaning": "a.特别的,特殊的,专门的"
+  },
+  {
+    "freq": 153,
+    "word": "care",
+    "phonetic": "[keə]",
+    "meaning": "n./v.关心,担忧,照顾"
+  },
+  {
+    "freq": 152,
+    "word": "beautiful",
+    "phonetic": "['bju:təful]",
+    "meaning": "a.美丽的"
+  },
+  {
+    "freq": 150,
+    "word": "popular",
+    "phonetic": "[ˈpɒpjələ(r)]",
+    "meaning": "a.流行的,通俗的,受欢迎的"
+  },
+  {
+    "freq": 150,
+    "word": "believe",
+    "phonetic": "[bi'li:v]",
+    "meaning": "v.相信,认为"
+  },
+  {
+    "freq": 145,
+    "word": "plan",
+    "phonetic": "[plæn]",
+    "meaning": "n./v.计划,设计"
+  },
+  {
+    "freq": 145,
+    "word": "worry",
+    "phonetic": "['wʌri]",
+    "meaning": "v./n.担心,烦恼"
+  },
+  {
+    "freq": 145,
+    "word": "send",
+    "phonetic": "[send]",
+    "meaning": "v.发送,派遣"
+  },
+  {
+    "freq": 142,
+    "word": "wait",
+    "phonetic": "[weit]",
+    "meaning": "v./n.等待"
+  },
+  {
+    "freq": 139,
+    "word": "bring",
+    "phonetic": "[briŋ]",
+    "meaning": "v.带来,促使,引起"
+  },
+  {
+    "freq": 138,
+    "word": "minute",
+    "phonetic": "[mai'nju:t]",
+    "meaning": "n.分钟,片刻 a.微小的"
+  },
+  {
+    "freq": 138,
+    "word": "decide",
+    "phonetic": "[di'said]",
+    "meaning": "v.决定"
+  },
+  {
+    "freq": 137,
+    "word": "understand",
+    "phonetic": "[ˌʌndə'stænd]",
+    "meaning": "v.理解,明白,懂得"
+  },
+  {
+    "freq": 137,
+    "word": "choose",
+    "phonetic": "[tʃu:z]",
+    "meaning": "v.选择"
+  },
+  {
+    "freq": 136,
+    "word": "lose",
+    "phonetic": "[lu:z]",
+    "meaning": "v.丢失,失败,迷失"
+  },
+  {
+    "freq": 135,
+    "word": "hope",
+    "phonetic": "[həup]",
+    "meaning": "v./n.希望"
+  },
+  {
+    "freq": 133,
+    "word": "enough",
+    "phonetic": "[i'nʌf]",
+    "meaning": "a./ad.足够的,充足的"
+  },
+  {
+    "freq": 133,
+    "word": "probably",
+    "phonetic": "['prɔbəb(ə)li]",
+    "meaning": "ad.大概,很可能"
+  },
+  {
+    "freq": 133,
+    "word": "leave",
+    "phonetic": "[li:v]",
+    "meaning": "v.离开"
+  },
+  {
+    "freq": 130,
+    "word": "miss",
+    "phonetic": "[mis]",
+    "meaning": "v.错过,想念 n.小姐"
+  },
+  {
+    "freq": 127,
+    "word": "save",
+    "phonetic": "[seiv]",
+    "meaning": "v.解救,保存,节省"
+  },
+  {
+    "freq": 126,
+    "word": "however",
+    "phonetic": "[haʊˈevə(r)]",
+    "meaning": "ad.然而 conj.不管怎样"
+  },
+  {
+    "freq": 126,
+    "word": "later",
+    "phonetic": "[ˈleɪtə(r)]",
+    "meaning": "ad.后来,稍后 a.后来的"
+  },
+  {
+    "freq": 124,
+    "word": "build",
+    "phonetic": "[bild]",
+    "meaning": "v.建造,创建"
+  },
+  {
+    "freq": 121,
+    "word": "finish",
+    "phonetic": "[ˈfɪnɪʃ]",
+    "meaning": "n./v.完成,结束"
+  },
+  {
+    "freq": 121,
+    "word": "activity",
+    "phonetic": "[æk'tiviti]",
+    "meaning": "n.活动,活跃"
+  },
+  {
+    "freq": 121,
+    "word": "happen",
+    "phonetic": "['hæpən]",
+    "meaning": "v.发生,碰巧"
+  },
+  {
+    "freq": 120,
+    "word": "since",
+    "phonetic": "[sins]",
+    "meaning": "conj.自从,因为"
+  },
+  {
+    "freq": 120,
+    "word": "break",
+    "phonetic": "[breik]",
+    "meaning": "n.休息,破裂 v.打破,中断"
+  },
+  {
+    "freq": 119,
+    "word": "building",
+    "phonetic": "['bildiŋ]",
+    "meaning": "n.建筑物"
+  },
+  {
+    "freq": 118,
+    "word": "wish",
+    "phonetic": "[wiʃ]",
+    "meaning": "v.希望,想要 n.愿望"
+  },
+  {
+    "freq": 116,
+    "word": "festival",
+    "phonetic": "['festəvəl]",
+    "meaning": "n.节日"
+  },
+  {
+    "freq": 115,
+    "word": "language",
+    "phonetic": "['læŋgwidӡ]",
+    "meaning": "n.语言"
+  },
+  {
+    "freq": 114,
+    "word": "example",
+    "phonetic": "[ig'zɑ:mpl]",
+    "meaning": "n.例子,榜样"
+  },
+  {
+    "freq": 111,
+    "word": "healthy",
+    "phonetic": "['helθi]",
+    "meaning": "a.健康的"
+  },
+  {
+    "freq": 110,
+    "word": "share",
+    "phonetic": "[ʃeə(r)]",
+    "meaning": "v.分享,分担 n.份额"
+  },
+  {
+    "freq": 110,
+    "word": "taste",
+    "phonetic": "[teist]",
+    "meaning": "v.品尝,体验 n.味道,爱好"
+  },
+  {
+    "freq": 109,
+    "word": "company",
+    "phonetic": "['kʌmpəni]",
+    "meaning": "n.公司"
+  },
+  {
+    "freq": 109,
+    "word": "sound",
+    "phonetic": "[saund]",
+    "meaning": "n.声音 v.听起来 a.合理的"
+  },
+  {
+    "freq": 108,
+    "word": "museum",
+    "phonetic": "[mju(:)'ziəm]",
+    "meaning": "n.博物馆"
+  },
+  {
+    "freq": 107,
+    "word": "difficult",
+    "phonetic": "['difikəlt]",
+    "meaning": "a.困难的"
+  },
+  {
+    "freq": 106,
+    "word": "close",
+    "phonetic": "[kləuz]",
+    "meaning": "v.关 a.近的 ad.接近地"
+  },
+  {
+    "freq": 105,
+    "word": "light",
+    "phonetic": "[lait]",
+    "meaning": "n.光,灯 v.照亮,点燃 a.轻的, 淡的"
+  },
+  {
+    "freq": 105,
+    "word": "stand",
+    "phonetic": "[stænd]",
+    "meaning": "v.站立,位于,忍受 n.看台"
+  },
+  {
+    "freq": 104,
+    "word": "late",
+    "phonetic": "[leit]",
+    "meaning": "ad.迟,晚 a.晚的"
+  },
+  {
+    "freq": 104,
+    "word": "excite",
+    "phonetic": "[ik'sait]",
+    "meaning": "v.使兴奋,激动,刺激"
+  },
+  {
+    "freq": 103,
+    "word": "tomorrow",
+    "phonetic": "[tə'mɔrəu]",
+    "meaning": "n.明天,未来"
+  },
+  {
+    "freq": 103,
+    "word": "mind",
+    "phonetic": "[maind]",
+    "meaning": "n.心,头脑,意见 v.介意"
+  },
+  {
+    "freq": 103,
+    "word": "forget",
+    "phonetic": "[fə'get]",
+    "meaning": "v.忘记,忽略"
+  },
+  {
+    "freq": 102,
+    "word": "anything",
+    "phonetic": "['eniθiŋ]",
+    "meaning": "pron.任何事"
+  },
+  {
+    "freq": 101,
+    "word": "order",
+    "phonetic": "['ɔ:də]",
+    "meaning": "v./n.命令,定购,顺序,规则"
+  },
+  {
+    "freq": 97,
+    "word": "scientist",
+    "phonetic": "['saiəntist]",
+    "meaning": "n.科学家"
+  },
+  {
+    "freq": 97,
+    "word": "heart",
+    "phonetic": "[hɑ:t]",
+    "meaning": "n.心,心脏,中心"
+  },
+  {
+    "freq": 97,
+    "word": "fall",
+    "phonetic": "[fɔ:l]",
+    "meaning": "v.落下,倒下 n.秋天,落下"
+  },
+  {
+    "freq": 97,
+    "word": "collect",
+    "phonetic": "[kə'lekt]",
+    "meaning": "v.收集"
+  },
+  {
+    "freq": 95,
+    "word": "history",
+    "phonetic": "['histəri]",
+    "meaning": "n.历史,历史学"
+  },
+  {
+    "freq": 95,
+    "word": "weather",
+    "phonetic": "[ˈweðə(r)]",
+    "meaning": "n.天气,气象"
+  },
+  {
+    "freq": 94,
+    "word": "afraid",
+    "phonetic": "[ə'freid]",
+    "meaning": "a.害怕的,担心的"
+  },
+  {
+    "freq": 93,
+    "word": "protect",
+    "phonetic": "[prə'tekt]",
+    "meaning": "v.保护"
+  },
+  {
+    "freq": 91,
+    "word": "catch",
+    "phonetic": "[kætʃ]",
+    "meaning": "v.捕获,抓住,赶上"
+  },
+  {
+    "freq": 91,
+    "word": "seem",
+    "phonetic": "[si:m]",
+    "meaning": "v.好像,似乎"
+  },
+  {
+    "freq": 89,
+    "word": "chance",
+    "phonetic": "[tʃɑ:ns]",
+    "meaning": "n.机会,可能性"
+  },
+  {
+    "freq": 89,
+    "word": "improve",
+    "phonetic": "[im'pru:v]",
+    "meaning": "v.改善,改进,提高"
+  },
+  {
+    "freq": 88,
+    "word": "culture",
+    "phonetic": "[ˈkʌltʃə(r)]",
+    "meaning": "n.文化"
+  },
+  {
+    "freq": 87,
+    "word": "wear",
+    "phonetic": "[weə(r)]",
+    "meaning": "v./n.穿戴,磨损"
+  },
+  {
+    "freq": 87,
+    "word": "return",
+    "phonetic": "[ri'tə:n]",
+    "meaning": "v./n.返回,归还"
+  },
+  {
+    "freq": 87,
+    "word": "realize",
+    "phonetic": "['riəlaiz]",
+    "meaning": "v.认识到,了解,实现"
+  },
+  {
+    "freq": 86,
+    "word": "science",
+    "phonetic": "['saiəns]",
+    "meaning": "n.科学"
+  },
+  {
+    "freq": 86,
+    "word": "develop",
+    "phonetic": "[di'veləp]",
+    "meaning": "v.发展,开发,发育"
+  },
+  {
+    "freq": 84,
+    "word": "village",
+    "phonetic": "['vilidӡ]",
+    "meaning": "n.村庄"
+  },
+  {
+    "freq": 83,
+    "word": "environment",
+    "phonetic": "[in'vaiərənmənt]",
+    "meaning": "n.环境"
+  },
+  {
+    "freq": 81,
+    "word": "allow",
+    "phonetic": "[ə'lau]",
+    "meaning": "v.允许"
+  },
+  {
+    "freq": 80,
+    "word": "possible",
+    "phonetic": "['pɔsəbl]",
+    "meaning": "a.可能的,合理的"
+  },
+  {
+    "freq": 79,
+    "word": "pick",
+    "phonetic": "[pik]",
+    "meaning": "v./n.捡,挑选,采摘"
+  },
+  {
+    "freq": 77,
+    "word": "report",
+    "phonetic": "[ri'pɔ:t]",
+    "meaning": "n.报告 v.报导"
+  },
+  {
+    "freq": 77,
+    "word": "note",
+    "phonetic": "[nəut]",
+    "meaning": "v.注意,记录 n.便条,笔记"
+  },
+  {
+    "freq": 76,
+    "word": "able",
+    "phonetic": "['eibl]",
+    "meaning": "a.能够的,能干的"
+  },
+  {
+    "freq": 76,
+    "word": "news",
+    "phonetic": "[nju:z]",
+    "meaning": "n.新闻,消息"
+  },
+  {
+    "freq": 75,
+    "word": "angry",
+    "phonetic": "['æŋgri]",
+    "meaning": "a.发怒的,生气的"
+  },
+  {
+    "freq": 75,
+    "word": "mainly",
+    "phonetic": "['meinli]",
+    "meaning": "ad.主要地,大体上"
+  },
+  {
+    "freq": 75,
+    "word": "arrive",
+    "phonetic": "[ə'raiv]",
+    "meaning": "v.到达"
+  },
+  {
+    "freq": 74,
+    "word": "strong",
+    "phonetic": "[strɔŋ]",
+    "meaning": "a.强壮的,强烈的,坚强的"
+  },
+  {
+    "freq": 74,
+    "word": "suddenly",
+    "phonetic": "['sʌdənli]",
+    "meaning": "ad.突然地"
+  },
+  {
+    "freq": 74,
+    "word": "quite",
+    "phonetic": "[kwait]",
+    "meaning": "ad.相当,很,十分"
+  },
+  {
+    "freq": 74,
+    "word": "hurt",
+    "phonetic": "[hə:t]",
+    "meaning": "n.疼痛 v.使疼痛,伤害"
+  },
+  {
+    "freq": 74,
+    "word": "head",
+    "phonetic": "[hed]",
+    "meaning": "n.头部,头脑 v.前进"
+  },
+  {
+    "freq": 73,
+    "word": "business",
+    "phonetic": "['biznis]",
+    "meaning": "n.商业,事务,生意"
+  },
+  {
+    "freq": 73,
+    "word": "invite",
+    "phonetic": "[in'vait]",
+    "meaning": "v.邀请"
+  },
+  {
+    "freq": 72,
+    "word": "laugh",
+    "phonetic": "[lɑ:f]",
+    "meaning": "v./n.笑,笑声,嘲笑"
+  },
+  {
+    "freq": 72,
+    "word": "store",
+    "phonetic": "[stɔː(r)]",
+    "meaning": "v.储存,贮藏 n.商店"
+  },
+  {
+    "freq": 72,
+    "word": "encourage",
+    "phonetic": "[in'kʌridӡ]",
+    "meaning": "v.鼓励,支持"
+  },
+  {
+    "freq": 71,
+    "word": "favorite",
+    "phonetic": "['feivərit]",
+    "meaning": "a.喜爱的 n.最喜爱的人或物"
+  },
+  {
+    "freq": 71,
+    "word": "plane",
+    "phonetic": "[plein]",
+    "meaning": "n.飞机,平面"
+  },
+  {
+    "freq": 71,
+    "word": "ticket",
+    "phonetic": "['tikit]",
+    "meaning": "n.票,入场券"
+  },
+  {
+    "freq": 71,
+    "word": "throw",
+    "phonetic": "[θrəu]",
+    "meaning": "v./n.扔,投掷"
+  },
+  {
+    "freq": 70,
+    "word": "traffic",
+    "phonetic": "['træfik]",
+    "meaning": "n.交通,交通量,运输"
+  },
+  {
+    "freq": 70,
+    "word": "join",
+    "phonetic": "[dӡɔin]",
+    "meaning": "v.加入,参加"
+  },
+  {
+    "freq": 70,
+    "word": "provide",
+    "phonetic": "[prə'vaid]",
+    "meaning": "v.提供,供给"
+  },
+  {
+    "freq": 69,
+    "word": "trouble",
+    "phonetic": "['trʌbl]",
+    "meaning": "n./v.麻烦,烦恼"
+  },
+  {
+    "freq": 69,
+    "word": "meeting",
+    "phonetic": "['mi:tiŋ]",
+    "meaning": "n.会议,集会"
+  },
+  {
+    "freq": 68,
+    "word": "whole",
+    "phonetic": "[həul]",
+    "meaning": "n.全部 a.全部的,完整的"
+  },
+  {
+    "freq": 68,
+    "word": "paint",
+    "phonetic": "[peint]",
+    "meaning": "v./n.绘画,油漆"
+  },
+  {
+    "freq": 67,
+    "word": "mobile",
+    "phonetic": "['məubail]",
+    "meaning": "a.可移动的,易变的"
+  },
+  {
+    "freq": 67,
+    "word": "newspaper",
+    "phonetic": "['nju:speipə]",
+    "meaning": "n.报纸"
+  },
+  {
+    "freq": 67,
+    "word": "library",
+    "phonetic": "['laibrəri]",
+    "meaning": "n.图书馆"
+  },
+  {
+    "freq": 66,
+    "word": "several",
+    "phonetic": "['sevərəl]",
+    "meaning": "a.几个,若干"
+  },
+  {
+    "freq": 66,
+    "word": "middle",
+    "phonetic": "['midl]",
+    "meaning": "n./a.中部,中间"
+  },
+  {
+    "freq": 66,
+    "word": "agree",
+    "phonetic": "[ə'gri:]",
+    "meaning": "v.同意,赞成"
+  },
+  {
+    "freq": 65,
+    "word": "dangerous",
+    "phonetic": "['deindʒərəs]",
+    "meaning": "a.危险的"
+  },
+  {
+    "freq": 65,
+    "word": "mistake",
+    "phonetic": "[mis'teik]",
+    "meaning": "n.错误,误解 v.弄错"
+  },
+  {
+    "freq": 65,
+    "word": "include",
+    "phonetic": "[in'klu:d]",
+    "meaning": "v.包括,包含"
+  },
+  {
+    "freq": 65,
+    "word": "create",
+    "phonetic": "[kri'eit]",
+    "meaning": "v.创造"
+  },
+  {
+    "freq": 64,
+    "word": "carefully",
+    "phonetic": "['kɛəfəli]",
+    "meaning": "ad.小心地,仔细地"
+  },
+  {
+    "freq": 64,
+    "word": "spring",
+    "phonetic": "[spriŋ]",
+    "meaning": "n.春天,泉水 v.弹跳,涌现"
+  },
+  {
+    "freq": 64,
+    "word": "carry",
+    "phonetic": "['kæri]",
+    "meaning": "v.携带,提,运送"
+  },
+  {
+    "freq": 63,
+    "word": "smell",
+    "phonetic": "[smel]",
+    "meaning": "n.气味 v.嗅,闻"
+  },
+  {
+    "freq": 63,
+    "word": "matter",
+    "phonetic": "[ˈmætə(r)]",
+    "meaning": "n.问题,事情 v.要紧"
+  },
+  {
+    "freq": 63,
+    "word": "notice",
+    "phonetic": "['nəutis]",
+    "meaning": "v./n.注意,通知"
+  },
+  {
+    "freq": 62,
+    "word": "practice",
+    "phonetic": "['præktis]",
+    "meaning": "n./v.练习,实践"
+  },
+  {
+    "freq": 62,
+    "word": "window",
+    "phonetic": "['windəu]",
+    "meaning": "n.窗户"
+  },
+  {
+    "freq": 62,
+    "word": "earth",
+    "phonetic": "[ə:θ]",
+    "meaning": "n.地球,泥土"
+  },
+  {
+    "freq": 62,
+    "word": "control",
+    "phonetic": "[kən'trol]",
+    "meaning": "v./n.控制"
+  },
+  {
+    "freq": 61,
+    "word": "success",
+    "phonetic": "[sək'ses]",
+    "meaning": "n.成功,成就"
+  },
+  {
+    "freq": 61,
+    "word": "result",
+    "phonetic": "[ri'zʌlt]",
+    "meaning": "n.结果,答案 v.致使,产生"
+  },
+  {
+    "freq": 61,
+    "word": "waste",
+    "phonetic": "[weist]",
+    "meaning": "v./n.浪费,废物"
+  },
+  {
+    "freq": 60,
+    "word": "exercise",
+    "phonetic": "['eksəsaiz]",
+    "meaning": "n./v.运动,锻炼,练习"
+  },
+  {
+    "freq": 60,
+    "word": "difference",
+    "phonetic": "['difərəns]",
+    "meaning": "n.差异,不同"
+  },
+  {
+    "freq": 60,
+    "word": "climb",
+    "phonetic": "[klaim]",
+    "meaning": "v./n.攀登,爬"
+  },
+  {
+    "freq": 59,
+    "word": "wonderful",
+    "phonetic": "['wʌndəfəl]",
+    "meaning": "a.精彩的,极好的"
+  },
+  {
+    "freq": 59,
+    "word": "already",
+    "phonetic": "[ɔ:l'redi]",
+    "meaning": "ad.已经"
+  },
+  {
+    "freq": 59,
+    "word": "driver",
+    "phonetic": "[ˈdraɪvə(r)]",
+    "meaning": "n.司机,驱动器"
+  },
+  {
+    "freq": 57,
+    "word": "safe",
+    "phonetic": "[seif]",
+    "meaning": "a.安全的 n.保险箱"
+  },
+  {
+    "freq": 57,
+    "word": "skill",
+    "phonetic": "[skil]",
+    "meaning": "n.技能,技巧"
+  },
+  {
+    "freq": 57,
+    "word": "rest",
+    "phonetic": "[rest]",
+    "meaning": "v.休息 n.休息,其余的部分"
+  },
+  {
+    "freq": 57,
+    "word": "draw",
+    "phonetic": "[drɔ:]",
+    "meaning": "v.画,拖,移动 n.平局,抽签"
+  },
+  {
+    "freq": 57,
+    "word": "wake",
+    "phonetic": "[weik]",
+    "meaning": "v.醒来,唤醒"
+  },
+  {
+    "freq": 56,
+    "word": "necessary",
+    "phonetic": "['nesisəri]",
+    "meaning": "a.必需的 n.必需品"
+  },
+  {
+    "freq": 56,
+    "word": "friendly",
+    "phonetic": "['frendli]",
+    "meaning": "a.友好的,友善的"
+  },
+  {
+    "freq": 56,
+    "word": "visitor",
+    "phonetic": "[ˈvɪzɪtə(r)]",
+    "meaning": "n.访问者,参观者"
+  },
+  {
+    "freq": 56,
+    "word": "deal",
+    "phonetic": "[di:l]",
+    "meaning": "n.交易,协定 v.处理,经营"
+  },
+  {
+    "freq": 56,
+    "word": "teenager",
+    "phonetic": "[ˈtiːneɪdʒə(r)]",
+    "meaning": "n.青少年"
+  },
+  {
+    "freq": 56,
+    "word": "shout",
+    "phonetic": "[ʃaut]",
+    "meaning": "v./n.呼喊,大叫"
+  },
+  {
+    "freq": 56,
+    "word": "die",
+    "phonetic": "[dai]",
+    "meaning": "v.死亡,消失"
+  },
+  {
+    "freq": 56,
+    "word": "complete",
+    "phonetic": "[kəm'pli:t]",
+    "meaning": "v.完成 a.完整的,彻底的"
+  },
+  {
+    "freq": 55,
+    "word": "rich",
+    "phonetic": "[ritʃ]",
+    "meaning": "a.富有的,丰富的"
+  },
+  {
+    "freq": 55,
+    "word": "memory",
+    "phonetic": "['meməri]",
+    "meaning": "n.记忆力,回忆,内存"
+  },
+  {
+    "freq": 55,
+    "word": "price",
+    "phonetic": "[prais]",
+    "meaning": "n.价格,价值"
+  },
+  {
+    "freq": 55,
+    "word": "daughter",
+    "phonetic": "['dɔ:tə]",
+    "meaning": "n.女儿"
+  },
+  {
+    "freq": 55,
+    "word": "vegetable",
+    "phonetic": "['vedӡitəbl]",
+    "meaning": "n.蔬菜,植物"
+  },
+  {
+    "freq": 54,
+    "word": "maybe",
+    "phonetic": "['meibi]",
+    "meaning": "ad.或许,可能"
+  },
+  {
+    "freq": 54,
+    "word": "classroom",
+    "phonetic": "['klɑ:srum]",
+    "meaning": "n.教室"
+  },
+  {
+    "freq": 54,
+    "word": "neighbor",
+    "phonetic": "['neibə]",
+    "meaning": "n.邻居"
+  },
+  {
+    "freq": 54,
+    "word": "opinion",
+    "phonetic": "[ə'pinjən]",
+    "meaning": "n.意见,看法,主张"
+  },
+  {
+    "freq": 54,
+    "word": "reach",
+    "phonetic": "[ri:tʃ]",
+    "meaning": "v.到达,达成"
+  },
+  {
+    "freq": 53,
+    "word": "international",
+    "phonetic": "[ˌintə(:)'næʃənəl]",
+    "meaning": "a.国际的,世界性的"
+  },
+  {
+    "freq": 53,
+    "word": "reply",
+    "phonetic": "[ri'plai]",
+    "meaning": "n./v.回答,答复"
+  },
+  {
+    "freq": 53,
+    "word": "film",
+    "phonetic": "[film]",
+    "meaning": "n.电影,胶片,胶卷"
+  },
+  {
+    "freq": 53,
+    "word": "cost",
+    "phonetic": "[kɔst]",
+    "meaning": "n.价格,成本,代价 v.花费"
+  },
+  {
+    "freq": 53,
+    "word": "human",
+    "phonetic": "['hju:mən]",
+    "meaning": "n.人,人类"
+  },
+  {
+    "freq": 53,
+    "word": "receive",
+    "phonetic": "[ri'si:v]",
+    "meaning": "v.收到,接到,接待"
+  },
+  {
+    "freq": 52,
+    "word": "farmer",
+    "phonetic": "[ˈfɑːmə(r)]",
+    "meaning": "n.农夫,农民"
+  },
+  {
+    "freq": 52,
+    "word": "either",
+    "phonetic": "['aiðə(r)]",
+    "meaning": "pron.任一 ad.也"
+  },
+  {
+    "freq": 51,
+    "word": "member",
+    "phonetic": "[ˈmembə(r)]",
+    "meaning": "n.成员,会员"
+  },
+  {
+    "freq": 51,
+    "word": "ground",
+    "phonetic": "[graund]",
+    "meaning": "n.地面 v.放在地上"
+  },
+  {
+    "freq": 51,
+    "word": "continue",
+    "phonetic": "[kən'tinju:]",
+    "meaning": "v.继续,持续"
+  },
+  {
+    "freq": 51,
+    "word": "expect",
+    "phonetic": "[iks'pekt]",
+    "meaning": "v.期待,预期,盼望"
+  },
+  {
+    "freq": 50,
+    "word": "clear",
+    "phonetic": "[klɪə(r)]",
+    "meaning": "a./ad.清楚的 v.清除"
+  },
+  {
+    "freq": 50,
+    "word": "fine",
+    "phonetic": "[fain]",
+    "meaning": "a.好的,健康的 n.罚款"
+  },
+  {
+    "freq": 50,
+    "word": "accident",
+    "phonetic": "['æksidənt]",
+    "meaning": "n.意外事件,事故"
+  },
+  {
+    "freq": 50,
+    "word": "borrow",
+    "phonetic": "['bɔrəu]",
+    "meaning": "v.借,借入"
+  },
+  {
+    "freq": 50,
+    "word": "produce",
+    "phonetic": "[prə'dju:s]",
+    "meaning": "v.生产 n.产品"
+  },
+  {
+    "freq": 49,
+    "word": "expensive",
+    "phonetic": "[iks'pensiv]",
+    "meaning": "a.昂贵的,高价的"
+  },
+  {
+    "freq": 49,
+    "word": "traditional",
+    "phonetic": "[trə'diʃən(ə)l]",
+    "meaning": "a.传统的"
+  },
+  {
+    "freq": 49,
+    "word": "alone",
+    "phonetic": "[ə'ləun]",
+    "meaning": "a.单独的,孤独的 ad.仅仅"
+  },
+  {
+    "freq": 49,
+    "word": "careful",
+    "phonetic": "['keəful]",
+    "meaning": "a.小心的,仔细的"
+  },
+  {
+    "freq": 49,
+    "word": "serious",
+    "phonetic": "['siəriəs]",
+    "meaning": "a.严重的,严肃的,认真的"
+  },
+  {
+    "freq": 48,
+    "word": "heavy",
+    "phonetic": "['hi:vi]",
+    "meaning": "a.重的,沉重的"
+  },
+  {
+    "freq": 48,
+    "word": "mountain",
+    "phonetic": "['mauntin]",
+    "meaning": "n.山,山脉"
+  },
+  {
+    "freq": 47,
+    "word": "national",
+    "phonetic": "['næʃənəl]",
+    "meaning": "a.国家的,民族的"
+  },
+  {
+    "freq": 47,
+    "word": "lovely",
+    "phonetic": "['lʌvli]",
+    "meaning": "a.可爱的"
+  },
+  {
+    "freq": 47,
+    "word": "common",
+    "phonetic": "['kɔmən]",
+    "meaning": "a.平常的,共同的,公共的"
+  },
+  {
+    "freq": 47,
+    "word": "imagine",
+    "phonetic": "[i'mædӡin]",
+    "meaning": "v.想象,设想"
+  },
+  {
+    "freq": 46,
+    "word": "successful",
+    "phonetic": "[sək'sesfəl]",
+    "meaning": "a.成功的"
+  },
+  {
+    "freq": 46,
+    "word": "moment",
+    "phonetic": "['məumənt]",
+    "meaning": "n.片刻,关键时刻"
+  },
+  {
+    "freq": 46,
+    "word": "pleasure",
+    "phonetic": "['pleӡə]",
+    "meaning": "n.愉快,高兴"
+  },
+  {
+    "freq": 45,
+    "word": "terrible",
+    "phonetic": "['terəbl]",
+    "meaning": "a.可怕的,糟糕的"
+  },
+  {
+    "freq": 45,
+    "word": "proud",
+    "phonetic": "[praud]",
+    "meaning": "a.自豪的"
+  },
+  {
+    "freq": 45,
+    "word": "service",
+    "phonetic": "['sə:vis]",
+    "meaning": "n./v.服务"
+  },
+  {
+    "freq": 45,
+    "word": "voice",
+    "phonetic": "[vɔis]",
+    "meaning": "n.声音,嗓音,意见"
+  },
+  {
+    "freq": 45,
+    "word": "appear",
+    "phonetic": "[əˈpɪə(r)]",
+    "meaning": "v.出现,显得"
+  },
+  {
+    "freq": 45,
+    "word": "prefer",
+    "phonetic": "[pri'fə:]",
+    "meaning": "v.更喜欢,宁愿"
+  },
+  {
+    "freq": 45,
+    "word": "celebrate",
+    "phonetic": "['selibreit]",
+    "meaning": "v.庆祝,祝贺"
+  },
+  {
+    "freq": 45,
+    "word": "excuse",
+    "phonetic": "[iks'kju:z]",
+    "meaning": "v.原谅,辩解 n.理由,借口"
+  },
+  {
+    "freq": 44,
+    "word": "product",
+    "phonetic": "['prɔdəkt]",
+    "meaning": "n.产品,产物,乘积"
+  },
+  {
+    "freq": 44,
+    "word": "market",
+    "phonetic": "['mɑ:kit]",
+    "meaning": "n.市场,集市"
+  },
+  {
+    "freq": 44,
+    "word": "cover",
+    "phonetic": "[ˈkʌvə(r)]",
+    "meaning": "v.覆盖,掩护 n.封面,盖子"
+  },
+  {
+    "freq": 43,
+    "word": "radio",
+    "phonetic": "['reidiəu]",
+    "meaning": "n.收音机,无线电"
+  },
+  {
+    "freq": 43,
+    "word": "magazine",
+    "phonetic": "[ˌmægə'zi:n]",
+    "meaning": "n.杂志"
+  },
+  {
+    "freq": 43,
+    "word": "act",
+    "phonetic": "[ækt]",
+    "meaning": "v.行动,表演 n.行为"
+  },
+  {
+    "freq": 42,
+    "word": "funny",
+    "phonetic": "['fʌni]",
+    "meaning": "a.有趣的,好笑的,滑稽的"
+  },
+  {
+    "freq": 42,
+    "word": "winter",
+    "phonetic": "['wintə]",
+    "meaning": "n.冬季"
+  },
+  {
+    "freq": 42,
+    "word": "piano",
+    "phonetic": "[pi'ænəu]",
+    "meaning": "n.钢琴"
+  },
+  {
+    "freq": 42,
+    "word": "neither",
+    "phonetic": "[ˈnaɪðə(r)]",
+    "meaning": "pron./ad.也不,两者都不"
+  },
+  {
+    "freq": 42,
+    "word": "match",
+    "phonetic": "[mætʃ]",
+    "meaning": "v./n.相配,比赛,火柴"
+  },
+  {
+    "freq": 42,
+    "word": "explain",
+    "phonetic": "[iks'plein]",
+    "meaning": "v.解释,说明"
+  },
+  {
+    "freq": 41,
+    "word": "cheap",
+    "phonetic": "[tʃi:p]",
+    "meaning": "a.便宜的,廉价的"
+  },
+  {
+    "freq": 41,
+    "word": "strange",
+    "phonetic": "[streindӡ]",
+    "meaning": "a.奇怪的,陌生的"
+  },
+  {
+    "freq": 41,
+    "word": "space",
+    "phonetic": "[speis]",
+    "meaning": "n.空间,太空,间隔,空格"
+  },
+  {
+    "freq": 41,
+    "word": "smoke",
+    "phonetic": "[sməuk]",
+    "meaning": "n.烟 v.抽烟"
+  },
+  {
+    "freq": 41,
+    "word": "dress",
+    "phonetic": "[dres]",
+    "meaning": "v.穿着,穿衣 n.服装,女装"
+  },
+  {
+    "freq": 41,
+    "word": "refuse",
+    "phonetic": "[ri'fju:z]",
+    "meaning": "v.拒绝 n.垃圾"
+  },
+  {
+    "freq": 41,
+    "word": "fail",
+    "phonetic": "[feil]",
+    "meaning": "v.失败,不及格"
+  },
+  {
+    "freq": 41,
+    "word": "prepare",
+    "phonetic": "[prɪˈpeə(r)]",
+    "meaning": "v.准备,预备"
+  },
+  {
+    "freq": 40,
+    "word": "nervous",
+    "phonetic": "['nə:vəs]",
+    "meaning": "a.紧张的,神经的"
+  },
+  {
+    "freq": 40,
+    "word": "crowd",
+    "phonetic": "[kraud]",
+    "meaning": "n.人群 v.拥挤"
+  },
+  {
+    "freq": 40,
+    "word": "introduce",
+    "phonetic": "[ˌintrə'dju:s]",
+    "meaning": "v.介绍"
+  },
+  {
+    "freq": 40,
+    "word": "enter",
+    "phonetic": "['entə]",
+    "meaning": "v.进入"
+  },
+  {
+    "freq": 39,
+    "word": "useful",
+    "phonetic": "['ju:sfəl]",
+    "meaning": "a.有用的,有益的"
+  },
+  {
+    "freq": 39,
+    "word": "quiet",
+    "phonetic": "['kwaiət]",
+    "meaning": "n.安静 a.安静的,宁静的"
+  },
+  {
+    "freq": 39,
+    "word": "cinema",
+    "phonetic": "['sinimə]",
+    "meaning": "n.电影院"
+  },
+  {
+    "freq": 39,
+    "word": "concert",
+    "phonetic": "['kɔnsət]",
+    "meaning": "n.音乐会,一致,和谐"
+  },
+  {
+    "freq": 39,
+    "word": "check",
+    "phonetic": "[tʃek]",
+    "meaning": "v.检查 n.支票,核对"
+  },
+  {
+    "freq": 39,
+    "word": "accept",
+    "phonetic": "[ək'sept]",
+    "meaning": "v.接受,同意"
+  },
+  {
+    "freq": 39,
+    "word": "lie",
+    "phonetic": "[lai]",
+    "meaning": "v.说谎,躺,位于 n.谎言"
+  },
+  {
+    "freq": 38,
+    "word": "recently",
+    "phonetic": "['ri:səntli]",
+    "meaning": "ad.最近"
+  },
+  {
+    "freq": 38,
+    "word": "grade",
+    "phonetic": "[greid]",
+    "meaning": "n.等级,年级 v.评分,分等级"
+  },
+  {
+    "freq": 38,
+    "word": "worker",
+    "phonetic": "[ˈwɜːkə(r)]",
+    "meaning": "n.工人"
+  },
+  {
+    "freq": 38,
+    "word": "knowledge",
+    "phonetic": "['nɔlidӡ]",
+    "meaning": "n.知识"
+  },
+  {
+    "freq": 38,
+    "word": "support",
+    "phonetic": "[sə'pɔ:t]",
+    "meaning": "v./n.支持,支撑,供养"
+  },
+  {
+    "freq": 38,
+    "word": "describe",
+    "phonetic": "[dis'kraib]",
+    "meaning": "v.描述"
+  },
+  {
+    "freq": 37,
+    "word": "clever",
+    "phonetic": "['klevə]",
+    "meaning": "a.聪明的,机灵的"
+  },
+  {
+    "freq": 37,
+    "word": "huge",
+    "phonetic": "[hju:dӡ]",
+    "meaning": "a.巨大的,庞大的"
+  },
+  {
+    "freq": 37,
+    "word": "boring",
+    "phonetic": "['bɔ:riŋ]",
+    "meaning": "a.无聊的,乏味的"
+  },
+  {
+    "freq": 37,
+    "word": "fresh",
+    "phonetic": "[freʃ]",
+    "meaning": "a.新鲜的,无经验的"
+  },
+  {
+    "freq": 37,
+    "word": "center",
+    "phonetic": "['sentə]",
+    "meaning": "n.中心"
+  },
+  {
+    "freq": 37,
+    "word": "amaze",
+    "phonetic": "[ə'meiz]",
+    "meaning": "v.使吃惊"
+  },
+  {
+    "freq": 37,
+    "word": "discuss",
+    "phonetic": "[dis'kʌs]",
+    "meaning": "v.讨论"
+  },
+  {
+    "freq": 36,
+    "word": "active",
+    "phonetic": "['æktiv]",
+    "meaning": "a.活跃的,积极的"
+  },
+  {
+    "freq": 36,
+    "word": "natural",
+    "phonetic": "['nætʃərəl]",
+    "meaning": "a.自然的,天然的"
+  },
+  {
+    "freq": 36,
+    "word": "decision",
+    "phonetic": "[di'siӡən]",
+    "meaning": "n.决定,决心,决议"
+  },
+  {
+    "freq": 36,
+    "word": "invent",
+    "phonetic": "[in'vent]",
+    "meaning": "v.发明,虚构"
+  },
+  {
+    "freq": 36,
+    "word": "solve",
+    "phonetic": "[sɔlv]",
+    "meaning": "v.解决,解答"
+  },
+  {
+    "freq": 35,
+    "word": "foreign",
+    "phonetic": "['fɔrin]",
+    "meaning": "a.外国的,外来的"
+  },
+  {
+    "freq": 35,
+    "word": "secret",
+    "phonetic": "['si:krit]",
+    "meaning": "n./a.秘密"
+  },
+  {
+    "freq": 35,
+    "word": "communication",
+    "phonetic": "[kəˌmju:ni'keiʃn]",
+    "meaning": "n.交流,通讯,沟通"
+  },
+  {
+    "freq": 35,
+    "word": "pollution",
+    "phonetic": "[pə'lu:ʃən]",
+    "meaning": "n.污染,污染物"
+  },
+  {
+    "freq": 35,
+    "word": "situation",
+    "phonetic": "[ˌsitju'eiʃən]",
+    "meaning": "n.形式,位置,地点,情况,职务"
+  },
+  {
+    "freq": 35,
+    "word": "knock",
+    "phonetic": "[nɔk]",
+    "meaning": "v./n.敲击,敲门"
+  },
+  {
+    "freq": 35,
+    "word": "express",
+    "phonetic": "[iks'pres]",
+    "meaning": "v.表达,表示 n.快车,快递"
+  },
+  {
+    "freq": 34,
+    "word": "simple",
+    "phonetic": "['simpl]",
+    "meaning": "a.简单的,朴素的,单纯的"
+  },
+  {
+    "freq": 34,
+    "word": "bored",
+    "phonetic": "[bɔːd]",
+    "meaning": "a.无聊的,乏味的"
+  },
+  {
+    "freq": 34,
+    "word": "invention",
+    "phonetic": "[in'venʃən]",
+    "meaning": "n.发明"
+  },
+  {
+    "freq": 34,
+    "word": "factory",
+    "phonetic": "['fæktəri]",
+    "meaning": "n.工厂"
+  },
+  {
+    "freq": 34,
+    "word": "certain",
+    "phonetic": "['sə:tən]",
+    "meaning": "pron.某些 a.确定的,特定的"
+  },
+  {
+    "freq": 33,
+    "word": "honest",
+    "phonetic": "['ɔnist]",
+    "meaning": "a.诚实的,正直的"
+  },
+  {
+    "freq": 33,
+    "word": "ancient",
+    "phonetic": "['einʃənt]",
+    "meaning": "a.古老的,古代的"
+  },
+  {
+    "freq": 33,
+    "word": "perhaps",
+    "phonetic": "[pə'hæps]",
+    "meaning": "ad.也许,可能"
+  },
+  {
+    "freq": 33,
+    "word": "influence",
+    "phonetic": "['influəns]",
+    "meaning": "n./v.影响,影响力"
+  },
+  {
+    "freq": 33,
+    "word": "ocean",
+    "phonetic": "['əuʃən]",
+    "meaning": "n.海洋"
+  },
+  {
+    "freq": 33,
+    "word": "danger",
+    "phonetic": "[ˈdeɪndʒə(r)]",
+    "meaning": "n.危险,威胁"
+  },
+  {
+    "freq": 32,
+    "word": "comfortable",
+    "phonetic": "['kʌmfətəbl]",
+    "meaning": "a.舒适的"
+  },
+  {
+    "freq": 32,
+    "word": "perfect",
+    "phonetic": "['pə:fikt]",
+    "meaning": "a.完美的"
+  },
+  {
+    "freq": 32,
+    "word": "sunny",
+    "phonetic": "['sʌni]",
+    "meaning": "a.阳光充足的,晴朗的"
+  },
+  {
+    "freq": 32,
+    "word": "style",
+    "phonetic": "[stail]",
+    "meaning": "n.风格,式样,时尚"
+  },
+  {
+    "freq": 32,
+    "word": "power",
+    "phonetic": "[ˈpaʊə(r)]",
+    "meaning": "n.力,力量,权力,电力"
+  },
+  {
+    "freq": 32,
+    "word": "ability",
+    "phonetic": "[ə'biliti]",
+    "meaning": "n.能力,才干"
+  },
+  {
+    "freq": 32,
+    "word": "message",
+    "phonetic": "['mesidӡ]",
+    "meaning": "n.消息,信息"
+  },
+  {
+    "freq": 32,
+    "word": "succeed",
+    "phonetic": "[sək'si:d]",
+    "meaning": "v.成功,继承"
+  },
+  {
+    "freq": 31,
+    "word": "bright",
+    "phonetic": "[brait]",
+    "meaning": "a.明亮的,聪明的"
+  },
+  {
+    "freq": 31,
+    "word": "similar",
+    "phonetic": "[ˈsɪmələ(r)]",
+    "meaning": "a.相似的"
+  },
+  {
+    "freq": 31,
+    "word": "patient",
+    "phonetic": "['peiʃənt]",
+    "meaning": "n.病人 a.有耐心的"
+  },
+  {
+    "freq": 31,
+    "word": "tool",
+    "phonetic": "[tu:l]",
+    "meaning": "n.工具,手段"
+  },
+  {
+    "freq": 31,
+    "word": "machine",
+    "phonetic": "[mə'ʃi:n]",
+    "meaning": "n.机器"
+  },
+  {
+    "freq": 31,
+    "word": "record",
+    "phonetic": "['rekɔ:d]",
+    "meaning": "n.记录,唱片 v.记录,录下"
+  },
+  {
+    "freq": 31,
+    "word": "suggestion",
+    "phonetic": "[sə'dӡestʃən]",
+    "meaning": "n.建议,意见"
+  },
+  {
+    "freq": 31,
+    "word": "reduce",
+    "phonetic": "[ri'dju:s]",
+    "meaning": "v.减少,缩小"
+  },
+  {
+    "freq": 30,
+    "word": "lazy",
+    "phonetic": "['leizi]",
+    "meaning": "a.懒惰的,懒散的"
+  },
+  {
+    "freq": 30,
+    "word": "modern",
+    "phonetic": "['mɔdən]",
+    "meaning": "a.现代的,时髦的"
+  },
+  {
+    "freq": 30,
+    "word": "increase",
+    "phonetic": "[in'kri:s]",
+    "meaning": "n./v.增加,提高"
+  },
+  {
+    "freq": 30,
+    "word": "illness",
+    "phonetic": "['ilnis]",
+    "meaning": "n.疾病"
+  },
+  {
+    "freq": 30,
+    "word": "guess",
+    "phonetic": "[ges]",
+    "meaning": "v./n.猜测,推测"
+  },
+  {
+    "freq": 30,
+    "word": "connect",
+    "phonetic": "[kə'nekt]",
+    "meaning": "v.连接,联系"
+  },
+  {
+    "freq": 29,
+    "word": "brave",
+    "phonetic": "[breiv]",
+    "meaning": "a.勇敢的"
+  },
+  {
+    "freq": 29,
+    "word": "telephone",
+    "phonetic": "['telifəun]",
+    "meaning": "n.电话 v.打电话"
+  },
+  {
+    "freq": 29,
+    "word": "ring",
+    "phonetic": "[riŋ]",
+    "meaning": "n.环,戒指,电话,铃声 v.打电话"
+  },
+  {
+    "freq": 29,
+    "word": "conversation",
+    "phonetic": "[ˌkɔnvə'seiʃn]",
+    "meaning": "n.谈话,会话"
+  },
+  {
+    "freq": 29,
+    "word": "avoid",
+    "phonetic": "[ə'vɔid]",
+    "meaning": "v.避免"
+  },
+  {
+    "freq": 29,
+    "word": "disappear",
+    "phonetic": "[ˌdɪsəˈpɪə(r)]",
+    "meaning": "v.消失"
+  },
+  {
+    "freq": 29,
+    "word": "depend",
+    "phonetic": "[di'pend]",
+    "meaning": "v.依靠,取决于"
+  },
+  {
+    "freq": 28,
+    "word": "hungry",
+    "phonetic": "['hʌŋgri]",
+    "meaning": "a.饥饿的,渴望的"
+  },
+  {
+    "freq": 28,
+    "word": "polite",
+    "phonetic": "[pə'lait]",
+    "meaning": "a.有礼貌的,客气的,有教养的"
+  },
+  {
+    "freq": 28,
+    "word": "date",
+    "phonetic": "[deit]",
+    "meaning": "n.日期,时期,约会,年代"
+  },
+  {
+    "freq": 28,
+    "word": "achieve",
+    "phonetic": "[ə'tʃi:v]",
+    "meaning": "v.达到,实现,完成"
+  },
+  {
+    "freq": 28,
+    "word": "advise",
+    "phonetic": "[əd'vaiz]",
+    "meaning": "v.劝告,忠告,建议"
+  },
+  {
+    "freq": 27,
+    "word": "dead",
+    "phonetic": "[ded]",
+    "meaning": "a.死的,沉闷的"
+  },
+  {
+    "freq": 27,
+    "word": "rush",
+    "phonetic": "[rʌʃ]",
+    "meaning": "n./v.冲,冲进,匆忙,突袭"
+  },
+  {
+    "freq": 27,
+    "word": "sale",
+    "phonetic": "[seil]",
+    "meaning": "n.出售"
+  },
+  {
+    "freq": 27,
+    "word": "airport",
+    "phonetic": "['eəpɔ:t]",
+    "meaning": "n.机场"
+  },
+  {
+    "freq": 27,
+    "word": "truth",
+    "phonetic": "[tru:θ]",
+    "meaning": "n.事实,真理,真相"
+  },
+  {
+    "freq": 27,
+    "word": "advantage",
+    "phonetic": "[əd'vɑ:ntidӡ]",
+    "meaning": "n.优势 v.有利于"
+  },
+  {
+    "freq": 27,
+    "word": "manage",
+    "phonetic": "['mænidӡ]",
+    "meaning": "v.管理,经营"
+  },
+  {
+    "freq": 27,
+    "word": "burn",
+    "phonetic": "[bə:n]",
+    "meaning": "v.燃烧,烧伤 n.烧伤"
+  },
+  {
+    "freq": 26,
+    "word": "valuable",
+    "phonetic": "['væljuəbl]",
+    "meaning": "a.贵重的,有价值的"
+  },
+  {
+    "freq": 26,
+    "word": "repair",
+    "phonetic": "[rɪˈpeə(r)]",
+    "meaning": "n./v.修理,补救"
+  },
+  {
+    "freq": 26,
+    "word": "task",
+    "phonetic": "[tɑ:sk]",
+    "meaning": "n.任务,工作"
+  },
+  {
+    "freq": 26,
+    "word": "friendship",
+    "phonetic": "['frendʃip]",
+    "meaning": "n.友谊"
+  },
+  {
+    "freq": 26,
+    "word": "organization",
+    "phonetic": "[ˌɔ:gənai'zeiʃən]",
+    "meaning": "n.组织,机构"
+  },
+  {
+    "freq": 26,
+    "word": "everybody",
+    "phonetic": "['evribɔdi]",
+    "meaning": "pron.每个人,人人"
+  },
+  {
+    "freq": 25,
+    "word": "junior",
+    "phonetic": "[ˈdʒuːniə(r)]",
+    "meaning": "a.年少的,资历浅的 n.晚辈"
+  },
+  {
+    "freq": 25,
+    "word": "population",
+    "phonetic": "[ˌpɔpju'leiʃən]",
+    "meaning": "n.人口,人口数,群体"
+  },
+  {
+    "freq": 25,
+    "word": "system",
+    "phonetic": "['sistəm]",
+    "meaning": "n.系统,制度"
+  },
+  {
+    "freq": 25,
+    "word": "leaf",
+    "phonetic": "[li:f]",
+    "meaning": "n.叶子"
+  },
+  {
+    "freq": 25,
+    "word": "artist",
+    "phonetic": "['ɑ:tist]",
+    "meaning": "n.艺术家,美术家"
+  },
+  {
+    "freq": 25,
+    "word": "satisfy",
+    "phonetic": "['sætisfai]",
+    "meaning": "v.满足,使满意"
+  },
+  {
+    "freq": 24,
+    "word": "lonely",
+    "phonetic": "['ləunli]",
+    "meaning": "a.孤独的,寂寞的,荒凉的"
+  },
+  {
+    "freq": 24,
+    "word": "wise",
+    "phonetic": "[waiz]",
+    "meaning": "a.明智的,聪明的"
+  },
+  {
+    "freq": 24,
+    "word": "rainy",
+    "phonetic": "['reini]",
+    "meaning": "a.下雨的,多雨的"
+  },
+  {
+    "freq": 24,
+    "word": "quietly",
+    "phonetic": "['kwaiətli]",
+    "meaning": "ad.安静地,平静地"
+  },
+  {
+    "freq": 24,
+    "word": "blood",
+    "phonetic": "[blʌd]",
+    "meaning": "n.血 v.流血"
+  },
+  {
+    "freq": 24,
+    "word": "promise",
+    "phonetic": "['prɔmis]",
+    "meaning": "v./n.发誓,诺言,答应"
+  },
+  {
+    "freq": 24,
+    "word": "design",
+    "phonetic": "[di'zain]",
+    "meaning": "v./n.设计,计划"
+  },
+  {
+    "freq": 23,
+    "word": "wide",
+    "phonetic": "[waid]",
+    "meaning": "a.宽阔的,广泛的"
+  },
+  {
+    "freq": 23,
+    "word": "distance",
+    "phonetic": "['distəns]",
+    "meaning": "n.距离,远方"
+  },
+  {
+    "freq": 23,
+    "word": "basket",
+    "phonetic": "[bɑ:skit]",
+    "meaning": "n.篮子"
+  },
+  {
+    "freq": 23,
+    "word": "autumn",
+    "phonetic": "['ɔ:təm]",
+    "meaning": "n.秋天"
+  },
+  {
+    "freq": 23,
+    "word": "treat",
+    "phonetic": "[tri:t]",
+    "meaning": "v./n.对待,治疗,处理"
+  },
+  {
+    "freq": 23,
+    "word": "review",
+    "phonetic": "[ri'vju:]",
+    "meaning": "v./n.回顾,复习,评论"
+  },
+  {
+    "freq": 23,
+    "word": "breathe",
+    "phonetic": "[bri:ð]",
+    "meaning": "v.呼吸"
+  },
+  {
+    "freq": 23,
+    "word": "suggest",
+    "phonetic": "[sə'dӡest]",
+    "meaning": "v.建议,暗示"
+  },
+  {
+    "freq": 22,
+    "word": "pleasant",
+    "phonetic": "['plezənt]",
+    "meaning": "a.令人愉快的,舒适的"
+  },
+  {
+    "freq": 22,
+    "word": "excellent",
+    "phonetic": "['eksələnt]",
+    "meaning": "a.优秀的,杰出的"
+  },
+  {
+    "freq": 22,
+    "word": "correct",
+    "phonetic": "[kə'rekt]",
+    "meaning": "a.正确的,恰当的 v.纠正"
+  },
+  {
+    "freq": 22,
+    "word": "respect",
+    "phonetic": "[ris'pekt]",
+    "meaning": "n./v.尊敬,尊重"
+  },
+  {
+    "freq": 22,
+    "word": "kilometer",
+    "phonetic": "['kiləmi:tə]",
+    "meaning": "n.千米,公里"
+  },
+  {
+    "freq": 22,
+    "word": "condition",
+    "phonetic": "[kənˈdɪʃn]",
+    "meaning": "n.条件,情况"
+  },
+  {
+    "freq": 22,
+    "word": "suppose",
+    "phonetic": "[sə'pəuz]",
+    "meaning": "v.猜想,假设,认为"
+  },
+  {
+    "freq": 22,
+    "word": "attend",
+    "phonetic": "[ə'tend]",
+    "meaning": "v.出席,参加,照料"
+  },
+  {
+    "freq": 21,
+    "word": "outdoor",
+    "phonetic": "[ˈaʊtdɔː(r)]",
+    "meaning": "a.户外的,野外的"
+  },
+  {
+    "freq": 21,
+    "word": "weak",
+    "phonetic": "[wi:k]",
+    "meaning": "a.虚弱的,弱的"
+  },
+  {
+    "freq": 21,
+    "word": "loudly",
+    "phonetic": "['laudli]",
+    "meaning": "ad.大声地,响亮地"
+  },
+  {
+    "freq": 21,
+    "word": "simply",
+    "phonetic": "['simpli]",
+    "meaning": "ad.简单地,仅仅"
+  },
+  {
+    "freq": 21,
+    "word": "nowadays",
+    "phonetic": "['nauədeiz]",
+    "meaning": "ad.现今,现在"
+  },
+  {
+    "freq": 21,
+    "word": "earthquake",
+    "phonetic": "['ə:θkweik]",
+    "meaning": "n.地震"
+  },
+  {
+    "freq": 21,
+    "word": "disease",
+    "phonetic": "[di'zi:z]",
+    "meaning": "n.疾病"
+  },
+  {
+    "freq": 21,
+    "word": "reporter",
+    "phonetic": "[rɪˈpɔːtə(r)]",
+    "meaning": "n.记者"
+  },
+  {
+    "freq": 21,
+    "word": "death",
+    "phonetic": "[deθ]",
+    "meaning": "n.死,死亡"
+  },
+  {
+    "freq": 21,
+    "word": "talent",
+    "phonetic": "['tælənt]",
+    "meaning": "n.天才,天赋"
+  },
+  {
+    "freq": 21,
+    "word": "courage",
+    "phonetic": "['kʌridӡ]",
+    "meaning": "n.勇气,胆量"
+  },
+  {
+    "freq": 21,
+    "word": "hurry",
+    "phonetic": "['hʌri]",
+    "meaning": "v./n.催促,赶紧,急忙"
+  },
+  {
+    "freq": 20,
+    "word": "wet",
+    "phonetic": "[wet]",
+    "meaning": "a.湿的,多雨的 n.潮气"
+  },
+  {
+    "freq": 20,
+    "word": "pity",
+    "phonetic": "['piti]",
+    "meaning": "n./v.怜悯,同情"
+  },
+  {
+    "freq": 20,
+    "word": "address",
+    "phonetic": "[ə'dres]",
+    "meaning": "n.地址,演说 v.写地址,演说"
+  },
+  {
+    "freq": 20,
+    "word": "airplane",
+    "phonetic": "['eəˌplein]",
+    "meaning": "n.飞机"
+  },
+  {
+    "freq": 20,
+    "word": "peace",
+    "phonetic": "[pi:s]",
+    "meaning": "n.和平,安静"
+  },
+  {
+    "freq": 20,
+    "word": "noise",
+    "phonetic": "[nɔiz]",
+    "meaning": "n.噪声,喧闹声"
+  },
+  {
+    "freq": 20,
+    "word": "steal",
+    "phonetic": "[sti:l]",
+    "meaning": "v./n.偷窃"
+  },
+  {
+    "freq": 20,
+    "word": "prevent",
+    "phonetic": "[pri'vent]",
+    "meaning": "v.预防,防止"
+  },
+  {
+    "freq": 19,
+    "word": "unusual",
+    "phonetic": "[ʌn'ju:ʒuəl]",
+    "meaning": "a.不寻常的,独特的"
+  },
+  {
+    "freq": 19,
+    "word": "available",
+    "phonetic": "[ə'veiləbl]",
+    "meaning": "a.可利用的,可得到的,有空 的"
+  },
+  {
+    "freq": 19,
+    "word": "empty",
+    "phonetic": "['empti]",
+    "meaning": "a.空的,空洞的,空虚的"
+  },
+  {
+    "freq": 19,
+    "word": "round",
+    "phonetic": "[raʊnd]",
+    "meaning": "a.圆的,球形的 v.绕行,弄圆"
+  },
+  {
+    "freq": 19,
+    "word": "achievement",
+    "phonetic": "[ə'tʃi:vmənt]",
+    "meaning": "n.成就,完成"
+  },
+  {
+    "freq": 19,
+    "word": "war",
+    "phonetic": "[wɔː(r)]",
+    "meaning": "n.战争"
+  },
+  {
+    "freq": 19,
+    "word": "except",
+    "phonetic": "[ik'sept]",
+    "meaning": "prep.除…外 conj.除非"
+  },
+  {
+    "freq": 19,
+    "word": "compare",
+    "phonetic": "[kəmˈpeə(r)]",
+    "meaning": "v./n.比较,对比"
+  },
+  {
+    "freq": 19,
+    "word": "remain",
+    "phonetic": "[ri'mein]",
+    "meaning": "v.保持,剩余 n.剩余物"
+  },
+  {
+    "freq": 19,
+    "word": "divide",
+    "phonetic": "[di'vaid]",
+    "meaning": "v.分,划分,分割,除"
+  },
+  {
+    "freq": 19,
+    "word": "require",
+    "phonetic": "[rɪˈkwaɪə(r)]",
+    "meaning": "v.要求,需要,命令"
+  },
+  {
+    "freq": 18,
+    "word": "straight",
+    "phonetic": "[streit]",
+    "meaning": "a./ad.直的,坦率的"
+  },
+  {
+    "freq": 18,
+    "word": "likely",
+    "phonetic": "['laikli]",
+    "meaning": "ad.很可能 a.可能的,可信的"
+  },
+  {
+    "freq": 18,
+    "word": "advertisement",
+    "phonetic": "[əd'və:tismənt]",
+    "meaning": "n.广告"
+  },
+  {
+    "freq": 18,
+    "word": "chat",
+    "phonetic": "[tʃæt]",
+    "meaning": "v./n.聊天,闲谈"
+  },
+  {
+    "freq": 18,
+    "word": "attract",
+    "phonetic": "[ə'trækt]",
+    "meaning": "v.吸引"
+  },
+  {
+    "freq": 17,
+    "word": "cloudy",
+    "phonetic": "['klaudi]",
+    "meaning": "a.多云的,阴天的"
+  },
+  {
+    "freq": 17,
+    "word": "slow",
+    "phonetic": "[sləu]",
+    "meaning": "a.慢的 v.放慢,减速"
+  },
+  {
+    "freq": 17,
+    "word": "thin",
+    "phonetic": "[θin]",
+    "meaning": "a.瘦的,薄的,稀的"
+  },
+  {
+    "freq": 17,
+    "word": "expression",
+    "phonetic": "[iks'preʃən]",
+    "meaning": "n.表情,表达,措辞"
+  },
+  {
+    "freq": 17,
+    "word": "award",
+    "phonetic": "[ə'wɔ:d]",
+    "meaning": "n.奖,奖品 v.授予"
+  },
+  {
+    "freq": 17,
+    "word": "focus",
+    "phonetic": "['fəukəs]",
+    "meaning": "n.焦点,中心 v.集中"
+  },
+  {
+    "freq": 17,
+    "word": "manager",
+    "phonetic": "[ˈmænɪdʒə(r)]",
+    "meaning": "n.经理,管理者"
+  },
+  {
+    "freq": 17,
+    "word": "rubbish",
+    "phonetic": "['rʌbi∫]",
+    "meaning": "n.垃圾,废物,废话"
+  },
+  {
+    "freq": 17,
+    "word": "trade",
+    "phonetic": "[treid]",
+    "meaning": "n.贸易,交易 v.做买卖"
+  },
+  {
+    "freq": 17,
+    "word": "damage",
+    "phonetic": "['dæmidӡ]",
+    "meaning": "v./n.损害,毁坏"
+  },
+  {
+    "freq": 17,
+    "word": "disable",
+    "phonetic": "[dis'eibl]",
+    "meaning": "v.使失去能力,使残废"
+  },
+  {
+    "freq": 17,
+    "word": "belong",
+    "phonetic": "[bi'lɔŋ]",
+    "meaning": "v.属于"
+  },
+  {
+    "freq": 17,
+    "word": "organize",
+    "phonetic": "['ɔ:gənaiz]",
+    "meaning": "v.组织,安排"
+  },
+  {
+    "freq": 16,
+    "word": "single",
+    "phonetic": "['siŋgl]",
+    "meaning": "a.单一的,单独的"
+  },
+  {
+    "freq": 16,
+    "word": "proper",
+    "phonetic": "[ˈprɒpə(r)]",
+    "meaning": "a.合适的,恰当的"
+  },
+  {
+    "freq": 16,
+    "word": "normal",
+    "phonetic": "['nɔ:məl]",
+    "meaning": "a.正常的,正规的"
+  },
+  {
+    "freq": 16,
+    "word": "immediately",
+    "phonetic": "[i'mi:diətli]",
+    "meaning": "ad.立刻,直接地"
+  },
+  {
+    "freq": 16,
+    "word": "regret",
+    "phonetic": "[ri'gret]",
+    "meaning": "n./v.遗憾,后悔"
+  },
+  {
+    "freq": 16,
+    "word": "repeat",
+    "phonetic": "[ri'pi:t]",
+    "meaning": "n./v.重复,反复"
+  },
+  {
+    "freq": 16,
+    "word": "method",
+    "phonetic": "['meθəd]",
+    "meaning": "n.方法"
+  },
+  {
+    "freq": 16,
+    "word": "flight",
+    "phonetic": "[flait]",
+    "meaning": "n.飞行,航班"
+  },
+  {
+    "freq": 16,
+    "word": "truck",
+    "phonetic": "[trʌk]",
+    "meaning": "n.卡车,手推车"
+  },
+  {
+    "freq": 16,
+    "word": "bell",
+    "phonetic": "[bel]",
+    "meaning": "n.铃,钟"
+  },
+  {
+    "freq": 16,
+    "word": "effort",
+    "phonetic": "['efət]",
+    "meaning": "n.努力"
+  },
+  {
+    "freq": 16,
+    "word": "gas",
+    "phonetic": "[gæs]",
+    "meaning": "n.气体,煤气,汽油"
+  },
+  {
+    "freq": 16,
+    "word": "waiter",
+    "phonetic": "[ˈweɪtə(r)]",
+    "meaning": "n.侍者,服务员"
+  },
+  {
+    "freq": 16,
+    "word": "plastic",
+    "phonetic": "['plæstik]",
+    "meaning": "n.塑料 a.塑料的,可塑的"
+  },
+  {
+    "freq": 16,
+    "word": "afford",
+    "phonetic": "[ə'fɔ:d]",
+    "meaning": "v.提供,给予,买得起"
+  },
+  {
+    "freq": 15,
+    "word": "upset",
+    "phonetic": "[ʌp'set]",
+    "meaning": "a.心烦的 v./n.推翻"
+  },
+  {
+    "freq": 15,
+    "word": "final",
+    "phonetic": "['fainəl]",
+    "meaning": "a.最后的,最终的"
+  },
+  {
+    "freq": 15,
+    "word": "progress",
+    "phonetic": "['prəugres]",
+    "meaning": "n./v.前进,进步,发展"
+  },
+  {
+    "freq": 15,
+    "word": "value",
+    "phonetic": "['vælju:]",
+    "meaning": "n.价值,数值 v.评估"
+  },
+  {
+    "freq": 15,
+    "word": "force",
+    "phonetic": "[fɔ:s]",
+    "meaning": "n.力,力量,武力,军队 v.强迫"
+  },
+  {
+    "freq": 15,
+    "word": "amount",
+    "phonetic": "[ə'maunt]",
+    "meaning": "n.数量,总额 v.总计"
+  },
+  {
+    "freq": 15,
+    "word": "till",
+    "phonetic": "[til]",
+    "meaning": "prep.直到"
+  },
+  {
+    "freq": 15,
+    "word": "blow",
+    "phonetic": "[bləu]",
+    "meaning": "v.吹,风吹 n.打击"
+  },
+  {
+    "freq": 15,
+    "word": "warn",
+    "phonetic": "[wɔ:n]",
+    "meaning": "v.警告,告诫"
+  },
+  {
+    "freq": 14,
+    "word": "fair",
+    "phonetic": "[feə]",
+    "meaning": "a.公平的 n.展览会,集市"
+  },
+  {
+    "freq": 14,
+    "word": "basic",
+    "phonetic": "['beisik]",
+    "meaning": "a.基本的,基础的 n.基础"
+  },
+  {
+    "freq": 14,
+    "word": "awful",
+    "phonetic": "['ɔ:ful]",
+    "meaning": "a.可怕的,极坏的"
+  },
+  {
+    "freq": 14,
+    "word": "soft",
+    "phonetic": "[sɔft]",
+    "meaning": "a.软的,柔软的,温和的"
+  },
+  {
+    "freq": 14,
+    "word": "opposite",
+    "phonetic": "['ɔpəzit]",
+    "meaning": "a.相对的,对立的 n.对立面"
+  },
+  {
+    "freq": 14,
+    "word": "challenge",
+    "phonetic": "['tʃælindӡ]",
+    "meaning": "n./v.挑战"
+  },
+  {
+    "freq": 14,
+    "word": "coach",
+    "phonetic": "[kəutʃ]",
+    "meaning": "n.教练 v.训练,指导"
+  },
+  {
+    "freq": 14,
+    "word": "screen",
+    "phonetic": "[skri:n]",
+    "meaning": "n.屏幕"
+  },
+  {
+    "freq": 14,
+    "word": "society",
+    "phonetic": "[sə'saiəti]",
+    "meaning": "n.社会,社团"
+  },
+  {
+    "freq": 14,
+    "word": "rope",
+    "phonetic": "[rəup]",
+    "meaning": "n.绳索"
+  },
+  {
+    "freq": 14,
+    "word": "experiment",
+    "phonetic": "[iks'perimənt]",
+    "meaning": "n.试验 v.尝试,做实验"
+  },
+  {
+    "freq": 14,
+    "word": "brush",
+    "phonetic": "[brʌʃ]",
+    "meaning": "n.刷子,画笔 v.刷,擦"
+  },
+  {
+    "freq": 14,
+    "word": "policy",
+    "phonetic": "['pɔlisi]",
+    "meaning": "n.政策,方针"
+  },
+  {
+    "freq": 14,
+    "word": "exchange",
+    "phonetic": "[iks'tʃeindӡ]",
+    "meaning": "v./n.交换,兑换"
+  },
+  {
+    "freq": 14,
+    "word": "complain",
+    "phonetic": "[kəm'plein]",
+    "meaning": "v.抱怨,控诉"
+  },
+  {
+    "freq": 14,
+    "word": "greet",
+    "phonetic": "[gri:t]",
+    "meaning": "v.欢迎,问候,致敬"
+  },
+  {
+    "freq": 14,
+    "word": "view",
+    "phonetic": "[vju:]",
+    "meaning": "v.看 n.视野,见解,风景"
+  },
+  {
+    "freq": 13,
+    "word": "pop",
+    "phonetic": "[pɔp]",
+    "meaning": "a.流行的"
+  },
+  {
+    "freq": 13,
+    "word": "primary",
+    "phonetic": "['praiməri]",
+    "meaning": "a.首要的,主要的,最初的, 基本的"
+  },
+  {
+    "freq": 13,
+    "word": "supper",
+    "phonetic": "[ˈsʌpə(r)]",
+    "meaning": "n.晚餐"
+  },
+  {
+    "freq": 13,
+    "word": "pressure",
+    "phonetic": "[ˈpreʃə(r)]",
+    "meaning": "n.压力,压迫"
+  },
+  {
+    "freq": 13,
+    "word": "major",
+    "phonetic": "[ˈmeɪdʒə(r)]",
+    "meaning": "n.主修课 v.主修 a.主要的"
+  },
+  {
+    "freq": 13,
+    "word": "hang",
+    "phonetic": "[hæŋ]",
+    "meaning": "v.悬挂,吊死 n.悬挂,绞刑"
+  },
+  {
+    "freq": 12,
+    "word": "score",
+    "phonetic": "[skɔː(r)]",
+    "meaning": "n./v.得分,谱曲"
+  },
+  {
+    "freq": 12,
+    "word": "direction",
+    "phonetic": "[dəˈrekʃn]",
+    "meaning": "n.方向,指导"
+  },
+  {
+    "freq": 12,
+    "word": "metal",
+    "phonetic": "['metl]",
+    "meaning": "n.金属"
+  },
+  {
+    "freq": 12,
+    "word": "neighbour",
+    "phonetic": "[ˈneɪbə(r)]",
+    "meaning": "n.邻居"
+  },
+  {
+    "freq": 12,
+    "word": "scene",
+    "phonetic": "[si:n]",
+    "meaning": "n.情景,场景"
+  },
+  {
+    "freq": 12,
+    "word": "calendar",
+    "phonetic": "[ˈkælɪndə(r)]",
+    "meaning": "n.日历"
+  },
+  {
+    "freq": 12,
+    "word": "theater",
+    "phonetic": "['θiətə(r)]",
+    "meaning": "n.戏院,剧场"
+  },
+  {
+    "freq": 12,
+    "word": "stress",
+    "phonetic": "[stres]",
+    "meaning": "n.压力 v.着重,强调"
+  },
+  {
+    "freq": 12,
+    "word": "effect",
+    "phonetic": "[i'fekt]",
+    "meaning": "n.影响,效果 v.引起"
+  },
+  {
+    "freq": 12,
+    "word": "trust",
+    "phonetic": "[trʌst]",
+    "meaning": "v./n.信任,相信"
+  },
+  {
+    "freq": 12,
+    "word": "perform",
+    "phonetic": "[pə'fɔ:m]",
+    "meaning": "v.执行,履行,表演"
+  },
+  {
+    "freq": 11,
+    "word": "spare",
+    "phonetic": "[speə]",
+    "meaning": "a.备用的,多余的,闲暇的"
+  },
+  {
+    "freq": 11,
+    "word": "mad",
+    "phonetic": "[mæd]",
+    "meaning": "a.疯狂的,狂热的,生气的"
+  },
+  {
+    "freq": 11,
+    "word": "thirsty",
+    "phonetic": "[ˈθɜːsti]",
+    "meaning": "a.口渴的,渴望的"
+  },
+  {
+    "freq": 11,
+    "word": "doubt",
+    "phonetic": "[daut]",
+    "meaning": "n./v.怀疑"
+  },
+  {
+    "freq": 11,
+    "word": "case",
+    "phonetic": "[keis]",
+    "meaning": "n.案例,情况,箱子"
+  },
+  {
+    "freq": 11,
+    "word": "treasure",
+    "phonetic": "[ˈtreʒə(r)]",
+    "meaning": "n.财宝,财富 v.珍爱"
+  },
+  {
+    "freq": 11,
+    "word": "cooker",
+    "phonetic": "[ˈkʊkə(r)]",
+    "meaning": "n.炊具"
+  },
+  {
+    "freq": 11,
+    "word": "bottom",
+    "phonetic": "['bɔtəm]",
+    "meaning": "n.底部,底端"
+  },
+  {
+    "freq": 11,
+    "word": "height",
+    "phonetic": "[hait]",
+    "meaning": "n.高度"
+  },
+  {
+    "freq": 11,
+    "word": "nation",
+    "phonetic": "['neiʃən]",
+    "meaning": "n.国家,民族"
+  },
+  {
+    "freq": 11,
+    "word": "pride",
+    "phonetic": "[praid]",
+    "meaning": "n.骄傲,自豪"
+  },
+  {
+    "freq": 11,
+    "word": "church",
+    "phonetic": "[tʃə:tʃ]",
+    "meaning": "n.教堂"
+  },
+  {
+    "freq": 11,
+    "word": "examination",
+    "phonetic": "[igˌzæmi'neiʃən]",
+    "meaning": "n.考试,检查"
+  },
+  {
+    "freq": 11,
+    "word": "shower",
+    "phonetic": "[ˈʃaʊə(r)]",
+    "meaning": "n.淋浴,阵雨"
+  },
+  {
+    "freq": 11,
+    "word": "attitude",
+    "phonetic": "['ætitju:d]",
+    "meaning": "n.态度,看法"
+  },
+  {
+    "freq": 11,
+    "word": "toothache",
+    "phonetic": "['tu:θeik]",
+    "meaning": "n.牙痛"
+  },
+  {
+    "freq": 11,
+    "word": "invitation",
+    "phonetic": "[ˌinvi'teiʃən]",
+    "meaning": "n.邀请,招待"
+  },
+  {
+    "freq": 11,
+    "word": "regard",
+    "phonetic": "[ri'gɑ:d]",
+    "meaning": "n.尊敬 v.把…看作,尊敬"
+  },
+  {
+    "freq": 11,
+    "word": "pollute",
+    "phonetic": "[pə'lu:t]",
+    "meaning": "v.污染"
+  },
+  {
+    "freq": 11,
+    "word": "suffer",
+    "phonetic": "[ˈsʌfə(r)]",
+    "meaning": "v.遭受,忍受,受苦"
+  },
+  {
+    "freq": 10,
+    "word": "electric",
+    "phonetic": "[i'lektrik]",
+    "meaning": "a.电的,电动的,带电的"
+  },
+  {
+    "freq": 10,
+    "word": "medical",
+    "phonetic": "['medikəl]",
+    "meaning": "a.医学的,医疗的,内科的"
+  },
+  {
+    "freq": 10,
+    "word": "tidy",
+    "phonetic": "['taidi]",
+    "meaning": "a.整洁的 v.整理,收拾"
+  },
+  {
+    "freq": 10,
+    "word": "wing",
+    "phonetic": "[wiŋ]",
+    "meaning": "n.翅膀"
+  },
+  {
+    "freq": 10,
+    "word": "enemy",
+    "phonetic": "['enimi]",
+    "meaning": "n.敌人"
+  },
+  {
+    "freq": 10,
+    "word": "opera",
+    "phonetic": "['ɔpərə]",
+    "meaning": "n.歌剧"
+  },
+  {
+    "freq": 10,
+    "word": "butterfly",
+    "phonetic": "['bʌtəflai]",
+    "meaning": "n.蝴蝶"
+  },
+  {
+    "freq": 10,
+    "word": "chemistry",
+    "phonetic": "['kemistri]",
+    "meaning": "n.化学"
+  },
+  {
+    "freq": 10,
+    "word": "fuel",
+    "phonetic": "[fjuəl]",
+    "meaning": "n.燃料"
+  },
+  {
+    "freq": 10,
+    "word": "band",
+    "phonetic": "[bænd]",
+    "meaning": "n.条纹,带子,乐队 v.联合"
+  },
+  {
+    "freq": 10,
+    "word": "stream",
+    "phonetic": "[stri:m]",
+    "meaning": "n.溪流,一股 v.流出"
+  },
+  {
+    "freq": 10,
+    "word": "item",
+    "phonetic": "['aitəm]",
+    "meaning": "n.项目,条款"
+  },
+  {
+    "freq": 10,
+    "word": "pupil",
+    "phonetic": "['pju:pl]",
+    "meaning": "n.小学生"
+  },
+  {
+    "freq": 10,
+    "word": "period",
+    "phonetic": "['piəriəd]",
+    "meaning": "n.一段时间,时期,周期"
+  },
+  {
+    "freq": 10,
+    "word": "circle",
+    "phonetic": "['sə:kl]",
+    "meaning": "n.圆圈,圈子 v.画圈"
+  },
+  {
+    "freq": 10,
+    "word": "mix",
+    "phonetic": "[miks]",
+    "meaning": "v.混和"
+  },
+  {
+    "freq": 10,
+    "word": "destroy",
+    "phonetic": "[dis'trɔi]",
+    "meaning": "v.破坏,毁灭"
+  },
+  {
+    "freq": 10,
+    "word": "admire",
+    "phonetic": "[ədˈmaɪə(r)]",
+    "meaning": "v.钦佩,羡慕,称赞"
+  },
+  {
+    "freq": 10,
+    "word": "kick",
+    "phonetic": "[kik]",
+    "meaning": "v.踢"
+  },
+  {
+    "freq": 10,
+    "word": "fold",
+    "phonetic": "[fəuld]",
+    "meaning": "v.折叠"
+  },
+  {
+    "freq": 10,
+    "word": "prove",
+    "phonetic": "[pru:v]",
+    "meaning": "v.证明,验证"
+  },
+  {
+    "freq": 9,
+    "word": "rude",
+    "phonetic": "[ru:d]",
+    "meaning": "a.粗鲁的,无礼的"
+  },
+  {
+    "freq": 9,
+    "word": "smooth",
+    "phonetic": "[smuːð]",
+    "meaning": "a.光滑的,平稳的 v.弄平"
+  },
+  {
+    "freq": 9,
+    "word": "chemical",
+    "phonetic": "['kemikəl]",
+    "meaning": "a.化学的"
+  },
+  {
+    "freq": 9,
+    "word": "flat",
+    "phonetic": "[flæt]",
+    "meaning": "a.平坦的,扁平的"
+  },
+  {
+    "freq": 9,
+    "word": "strict",
+    "phonetic": "[strikt]",
+    "meaning": "a.严格的,精确的"
+  },
+  {
+    "freq": 9,
+    "word": "birth",
+    "phonetic": "[bə:θ]",
+    "meaning": "n./v.出生,诞生"
+  },
+  {
+    "freq": 9,
+    "word": "fever",
+    "phonetic": "[ˈfiːvə(r)]",
+    "meaning": "n./v.发烧,狂热"
+  },
+  {
+    "freq": 9,
+    "word": "menu",
+    "phonetic": "['menju:]",
+    "meaning": "n.菜单"
+  },
+  {
+    "freq": 9,
+    "word": "coast",
+    "phonetic": "[kəust]",
+    "meaning": "n.海岸,海滨"
+  },
+  {
+    "freq": 9,
+    "word": "army",
+    "phonetic": "['ɑ:mi]",
+    "meaning": "n.军队"
+  },
+  {
+    "freq": 9,
+    "word": "province",
+    "phonetic": "['prɔvins]",
+    "meaning": "n.省"
+  },
+  {
+    "freq": 9,
+    "word": "punish",
+    "phonetic": "['pʌniʃ]",
+    "meaning": "v.惩罚,处罚"
+  },
+  {
+    "freq": 8,
+    "word": "regular",
+    "phonetic": "[ˈreɡjələ(r)]",
+    "meaning": "a.规则的,有规律的,正规的"
+  },
+  {
+    "freq": 8,
+    "word": "grey",
+    "phonetic": "[ɡrei]",
+    "meaning": "a.灰色的"
+  },
+  {
+    "freq": 8,
+    "word": "anyway",
+    "phonetic": "['eniwei]",
+    "meaning": "ad.无论如何,总之"
+  },
+  {
+    "freq": 8,
+    "word": "cough",
+    "phonetic": "[kɔ:f]",
+    "meaning": "n./v.咳嗽"
+  },
+  {
+    "freq": 8,
+    "word": "diet",
+    "phonetic": "[ˈdaɪət]",
+    "meaning": "n.节食,日常饮食"
+  },
+  {
+    "freq": 8,
+    "word": "theatre",
+    "phonetic": "[ˈθɪətə(r)]",
+    "meaning": "n.剧场,戏院"
+  },
+  {
+    "freq": 8,
+    "word": "litter",
+    "phonetic": "[ˈlɪtə(r)]",
+    "meaning": "n.垃圾,一窝(幼崽)"
+  },
+  {
+    "freq": 8,
+    "word": "bath",
+    "phonetic": "[bɑ:θ]",
+    "meaning": "n.沐浴,浴室,澡盆"
+  },
+  {
+    "freq": 8,
+    "word": "balance",
+    "phonetic": "['bæləns]",
+    "meaning": "n.平衡 v.使平衡"
+  },
+  {
+    "freq": 8,
+    "word": "lab",
+    "phonetic": "[læb]",
+    "meaning": "n.实验室"
+  },
+  {
+    "freq": 8,
+    "word": "capital",
+    "phonetic": "['kæpitəl]",
+    "meaning": "n.首都,资本 a.重要的,大写 的"
+  },
+  {
+    "freq": 8,
+    "word": "railway",
+    "phonetic": "['reilwei]",
+    "meaning": "n.铁路"
+  },
+  {
+    "freq": 8,
+    "word": "physics",
+    "phonetic": "['fiziks]",
+    "meaning": "n.物理学"
+  },
+  {
+    "freq": 8,
+    "word": "degree",
+    "phonetic": "[di'gri:]",
+    "meaning": "n.学位,程度,度数"
+  },
+  {
+    "freq": 8,
+    "word": "operation",
+    "phonetic": "[ˌɔpə'reiʃən]",
+    "meaning": "n.运转,操作,手术"
+  },
+  {
+    "freq": 8,
+    "word": "instruction",
+    "phonetic": "[in'strʌkʃən]",
+    "meaning": "n.指令,教学,说明"
+  },
+  {
+    "freq": 8,
+    "word": "cheat",
+    "phonetic": "[tʃi:t]",
+    "meaning": "v./n.欺骗,作弊,骗子"
+  },
+  {
+    "freq": 8,
+    "word": "disappoint",
+    "phonetic": "[ˌdisə'pɔint]",
+    "meaning": "v.使失望"
+  },
+  {
+    "freq": 8,
+    "word": "swing",
+    "phonetic": "[swiŋ]",
+    "meaning": "v.摇摆,摆动 n.秋千"
+  },
+  {
+    "freq": 7,
+    "word": "deaf",
+    "phonetic": "[def]",
+    "meaning": "a.聋的"
+  },
+  {
+    "freq": 7,
+    "word": "senior",
+    "phonetic": "[ˈsiːniə(r)]",
+    "meaning": "a.年长的,资深的 n.大四 学生"
+  },
+  {
+    "freq": 7,
+    "word": "absent",
+    "phonetic": "['æbsənt]",
+    "meaning": "a.缺席的,缺乏的 v.缺席"
+  },
+  {
+    "freq": 7,
+    "word": "physical",
+    "phonetic": "['fizikəl]",
+    "meaning": "a.物质的,身体的,物理的"
+  },
+  {
+    "freq": 7,
+    "word": "honor",
+    "phonetic": "['ɔnə]",
+    "meaning": "n./v.尊敬,荣幸,荣誉"
+  },
+  {
+    "freq": 7,
+    "word": "edge",
+    "phonetic": "[edӡ]",
+    "meaning": "n.边,边缘,刀刃"
+  },
+  {
+    "freq": 7,
+    "word": "standard",
+    "phonetic": "['stændəd]",
+    "meaning": "n.标准,规格 a.标准的"
+  },
+  {
+    "freq": 7,
+    "word": "director",
+    "phonetic": "[dəˈrektə(r)]",
+    "meaning": "n.导演,经理,主管"
+  },
+  {
+    "freq": 7,
+    "word": "base",
+    "phonetic": "[beis]",
+    "meaning": "n.底部,基础,基地"
+  },
+  {
+    "freq": 7,
+    "word": "geography",
+    "phonetic": "[dӡi'ɔgrəfi]",
+    "meaning": "n.地理,地理学"
+  },
+  {
+    "freq": 7,
+    "word": "pilot",
+    "phonetic": "['pailət]",
+    "meaning": "n.飞行员"
+  },
+  {
+    "freq": 7,
+    "word": "apartment",
+    "phonetic": "[ə'pɑ:tmənt]",
+    "meaning": "n.公寓"
+  },
+  {
+    "freq": 7,
+    "word": "passport",
+    "phonetic": "['pɑ:spɔ:t]",
+    "meaning": "n.护照"
+  },
+  {
+    "freq": 7,
+    "word": "spirit",
+    "phonetic": "['spirit]",
+    "meaning": "n.精神,心灵,幽灵"
+  },
+  {
+    "freq": 7,
+    "word": "blank",
+    "phonetic": "[blæŋk]",
+    "meaning": "n.空白 a.空白的"
+  },
+  {
+    "freq": 7,
+    "word": "coal",
+    "phonetic": "[kəul]",
+    "meaning": "n.煤"
+  },
+  {
+    "freq": 7,
+    "word": "suit",
+    "phonetic": "[sju:t]",
+    "meaning": "n.套装,诉讼 v.合适,满足"
+  },
+  {
+    "freq": 7,
+    "word": "drug",
+    "phonetic": "[drʌg]",
+    "meaning": "n.药,毒品"
+  },
+  {
+    "freq": 7,
+    "word": "apologize",
+    "phonetic": "[ə'pɔlədӡaiz]",
+    "meaning": "v.道歉"
+  },
+  {
+    "freq": 7,
+    "word": "separate",
+    "phonetic": "['sepəreit]",
+    "meaning": "v.分开 a.分开的,单独的"
+  },
+  {
+    "freq": 7,
+    "word": "monitor",
+    "phonetic": "[ˈmɒnɪtə(r)]",
+    "meaning": "v.监视 n.监听器,班长"
+  },
+  {
+    "freq": 7,
+    "word": "educate",
+    "phonetic": "['edju(:)keit]",
+    "meaning": "v.教育,培养"
+  },
+  {
+    "freq": 7,
+    "word": "argue",
+    "phonetic": "['ɑ:gju:]",
+    "meaning": "v.争论,辩论,说服"
+  },
+  {
+    "freq": 6,
+    "word": "pale",
+    "phonetic": "[peil]",
+    "meaning": "a.苍白的"
+  },
+  {
+    "freq": 6,
+    "word": "private",
+    "phonetic": "['praivit]",
+    "meaning": "a.私人的 n.士兵"
+  },
+  {
+    "freq": 6,
+    "word": "contest",
+    "phonetic": "['kɔntest]",
+    "meaning": "n./v.竞赛,竞争"
+  },
+  {
+    "freq": 6,
+    "word": "press",
+    "phonetic": "[pres]",
+    "meaning": "n./v.压,压迫 n.报刊,新闻"
+  },
+  {
+    "freq": 6,
+    "word": "industry",
+    "phonetic": "['indəstri]",
+    "meaning": "n.工业,产业,勤劳"
+  },
+  {
+    "freq": 6,
+    "word": "flood",
+    "phonetic": "[flʌd]",
+    "meaning": "n.洪水 v.淹没"
+  },
+  {
+    "freq": 6,
+    "word": "shoulder",
+    "phonetic": "[ˈʃəʊldə(r)]",
+    "meaning": "n.肩膀 v.肩负,承担"
+  },
+  {
+    "freq": 6,
+    "word": "block",
+    "phonetic": "[blɔk]",
+    "meaning": "n.街区,障碍物 v.阻塞"
+  },
+  {
+    "freq": 6,
+    "word": "gesture",
+    "phonetic": "[ˈdʒestʃə(r)]",
+    "meaning": "n.手势,姿势"
+  },
+  {
+    "freq": 6,
+    "word": "dentist",
+    "phonetic": "['dentist]",
+    "meaning": "n.牙医"
+  },
+  {
+    "freq": 6,
+    "word": "steam",
+    "phonetic": "[sti:m]",
+    "meaning": "n.蒸汽 v.蒸"
+  },
+  {
+    "freq": 6,
+    "word": "cancel",
+    "phonetic": "['kænsəl]",
+    "meaning": "v./n.取消"
+  },
+  {
+    "freq": 6,
+    "word": "weigh",
+    "phonetic": "[wei]",
+    "meaning": "v.称重,衡量"
+  },
+  {
+    "freq": 6,
+    "word": "fix",
+    "phonetic": "[fiks]",
+    "meaning": "v.固定,修理"
+  },
+  {
+    "freq": 6,
+    "word": "guard",
+    "phonetic": "[gɑ:d]",
+    "meaning": "v.守卫,看守 n.哨兵,警戒"
+  },
+  {
+    "freq": 6,
+    "word": "shine",
+    "phonetic": "[ʃain]",
+    "meaning": "v.照耀,发光 n.光泽"
+  },
+  {
+    "freq": 5,
+    "word": "rough",
+    "phonetic": "[rʌf]",
+    "meaning": "a.粗糙的,粗暴的"
+  },
+  {
+    "freq": 5,
+    "word": "gentle",
+    "phonetic": "['dӡentl]",
+    "meaning": "a.温和的,文雅的,有教养 的"
+  },
+  {
+    "freq": 5,
+    "word": "flash",
+    "phonetic": "[flæʃ]",
+    "meaning": "n./v.闪光,闪现"
+  },
+  {
+    "freq": 5,
+    "word": "wealth",
+    "phonetic": "[welθ]",
+    "meaning": "n.财富,财产"
+  },
+  {
+    "freq": 5,
+    "word": "mess",
+    "phonetic": "[mes]",
+    "meaning": "n.混乱,脏乱 v.弄乱,弄脏"
+  },
+  {
+    "freq": 5,
+    "word": "medal",
+    "phonetic": "['medl]",
+    "meaning": "n.奖牌,勋章"
+  },
+  {
+    "freq": 5,
+    "word": "chain",
+    "phonetic": "[tʃein]",
+    "meaning": "n.链,一连串,束缚"
+  },
+  {
+    "freq": 5,
+    "word": "aim",
+    "phonetic": "[eim]",
+    "meaning": "n.目标 v.瞄准"
+  },
+  {
+    "freq": 5,
+    "word": "trader",
+    "phonetic": "[ˈtreɪdə(r)]",
+    "meaning": "n.商人,商船"
+  },
+  {
+    "freq": 5,
+    "word": "attack",
+    "phonetic": "[ə'tæk]",
+    "meaning": "v./n.攻击,进攻"
+  },
+  {
+    "freq": 5,
+    "word": "measure",
+    "phonetic": "[ˈmeʒə(r)]",
+    "meaning": "v.测量 n.措施,量度,尺寸"
+  },
+  {
+    "freq": 5,
+    "word": "pronounce",
+    "phonetic": "[prə'nauns]",
+    "meaning": "v.发音,宣告,宣判"
+  },
+  {
+    "freq": 5,
+    "word": "recognize",
+    "phonetic": "['rekəgnaiz]",
+    "meaning": "v.认出,承认,意识到"
+  },
+  {
+    "freq": 5,
+    "word": "decorate",
+    "phonetic": "['dekəreit]",
+    "meaning": "v.装饰,布置"
+  },
+  {
+    "freq": 4,
+    "word": "direct",
+    "phonetic": "[dəˈrekt]",
+    "meaning": "a./ad.直接的 v.指挥,命令"
+  },
+  {
+    "freq": 4,
+    "word": "tiny",
+    "phonetic": "['taini]",
+    "meaning": "a.极小的,微小的"
+  },
+  {
+    "freq": 4,
+    "word": "exact",
+    "phonetic": "[ig'zækt]",
+    "meaning": "a.精确的,准确的 v.强求"
+  },
+  {
+    "freq": 4,
+    "word": "digital",
+    "phonetic": "['didӡitl]",
+    "meaning": "a.数字的,数码的"
+  },
+  {
+    "freq": 4,
+    "word": "sudden",
+    "phonetic": "['sʌdn]",
+    "meaning": "a.突然的,意外的 n.突发 事件"
+  },
+  {
+    "freq": 4,
+    "word": "sour",
+    "phonetic": "[ˈsaʊə(r)]",
+    "meaning": "a.酸的"
+  },
+  {
+    "freq": 4,
+    "word": "transport",
+    "phonetic": "[træns'pɔ:t]",
+    "meaning": "n./v.运输"
+  },
+  {
+    "freq": 4,
+    "word": "silence",
+    "phonetic": "['sailəns]",
+    "meaning": "n.沉默,寂静"
+  },
+  {
+    "freq": 4,
+    "word": "battery",
+    "phonetic": "['bætəri]",
+    "meaning": "n.电池"
+  },
+  {
+    "freq": 4,
+    "word": "official",
+    "phonetic": "[ə'fiʃəl]",
+    "meaning": "n.官员 a.官方的,正式的"
+  },
+  {
+    "freq": 4,
+    "word": "partner",
+    "phonetic": "['pɑ:tnə]",
+    "meaning": "n.合伙人,伙伴,配偶"
+  },
+  {
+    "freq": 4,
+    "word": "solution",
+    "phonetic": "[sə'lju:ʃən]",
+    "meaning": "n.解决办法,解答,溶液"
+  },
+  {
+    "freq": 4,
+    "word": "pattern",
+    "phonetic": "['pætən]",
+    "meaning": "n.模式,图案"
+  },
+  {
+    "freq": 4,
+    "word": "victory",
+    "phonetic": "['viktəri]",
+    "meaning": "n.胜利"
+  },
+  {
+    "freq": 4,
+    "word": "soldier",
+    "phonetic": "[ˈsəʊldʒə(r)]",
+    "meaning": "n.士兵,军人"
+  },
+  {
+    "freq": 4,
+    "word": "position",
+    "phonetic": "[pə'ziʃən]",
+    "meaning": "n.位置,职务,立场"
+  },
+  {
+    "freq": 4,
+    "word": "envelope",
+    "phonetic": "['enviləup]",
+    "meaning": "n.信封,封皮"
+  },
+  {
+    "freq": 4,
+    "word": "athlete",
+    "phonetic": "['æθli:t]",
+    "meaning": "n.运动员"
+  },
+  {
+    "freq": 4,
+    "word": "sweep",
+    "phonetic": "[swi:p]",
+    "meaning": "v./n.打扫,清扫"
+  },
+  {
+    "freq": 4,
+    "word": "operate",
+    "phonetic": "['ɔpəreit]",
+    "meaning": "v.操作,运转,经营,动手术"
+  },
+  {
+    "freq": 4,
+    "word": "dare",
+    "phonetic": "[deə]",
+    "meaning": "v.敢,胆敢"
+  },
+  {
+    "freq": 3,
+    "word": "cruel",
+    "phonetic": "['kruəl]",
+    "meaning": "a.残酷的,残忍的"
+  },
+  {
+    "freq": 3,
+    "word": "typical",
+    "phonetic": "['tipikəl]",
+    "meaning": "a.典型的,有代表性的"
+  },
+  {
+    "freq": 3,
+    "word": "bitter",
+    "phonetic": "['bitə]",
+    "meaning": "a.苦的,痛苦的"
+  },
+  {
+    "freq": 3,
+    "word": "ordinary",
+    "phonetic": "['ɔ:dinəri]",
+    "meaning": "a.普通的,平常的"
+  },
+  {
+    "freq": 3,
+    "word": "cancer",
+    "phonetic": "[ˈkænsə(r)]",
+    "meaning": "n.癌,肿瘤"
+  },
+  {
+    "freq": 3,
+    "word": "discovery",
+    "phonetic": "[dis'kʌvəri]",
+    "meaning": "n.发现"
+  },
+  {
+    "freq": 3,
+    "word": "relation",
+    "phonetic": "[ri'leiʃən]",
+    "meaning": "n.关系,联系,亲戚"
+  },
+  {
+    "freq": 3,
+    "word": "female",
+    "phonetic": "['fi:meil]",
+    "meaning": "n.女性,雌性"
+  },
+  {
+    "freq": 3,
+    "word": "iron",
+    "phonetic": "['aiən]",
+    "meaning": "n.铁,熨斗"
+  },
+  {
+    "freq": 3,
+    "word": "cycle",
+    "phonetic": "['saikl]",
+    "meaning": "n.循环,周期,自行车 v.循 环"
+  },
+  {
+    "freq": 3,
+    "word": "fence",
+    "phonetic": "[fens]",
+    "meaning": "n.栅栏,击剑"
+  },
+  {
+    "freq": 3,
+    "word": "clinic",
+    "phonetic": "['klinik]",
+    "meaning": "n.诊所"
+  },
+  {
+    "freq": 3,
+    "word": "shut",
+    "phonetic": "[ʃʌt]",
+    "meaning": "v./n.关闭"
+  },
+  {
+    "freq": 3,
+    "word": "murder",
+    "phonetic": "[ˈmɜːdə(r)]",
+    "meaning": "v./n.谋杀"
+  },
+  {
+    "freq": 3,
+    "word": "request",
+    "phonetic": "[ri'kwest]",
+    "meaning": "v./n.请求,要求"
+  },
+  {
+    "freq": 3,
+    "word": "pour",
+    "phonetic": "[pɔː(r)]",
+    "meaning": "v.倾泻,涌入"
+  },
+  {
+    "freq": 3,
+    "word": "freeze",
+    "phonetic": "[fri:z]",
+    "meaning": "v.使结冰,冷冻"
+  },
+  {
+    "freq": 3,
+    "word": "lay",
+    "phonetic": "[lei]",
+    "meaning": "v.躺下,放置,产卵"
+  },
+  {
+    "freq": 3,
+    "word": "inform",
+    "phonetic": "[in'fɔ:m]",
+    "meaning": "v.通知,告诉"
+  },
+  {
+    "freq": 2,
+    "word": "dull",
+    "phonetic": "[dʌl]",
+    "meaning": "a.迟钝的,钝的,乏味 的"
+  },
+  {
+    "freq": 2,
+    "word": "steel",
+    "phonetic": "[sti:l]",
+    "meaning": "n.钢,钢铁"
+  },
+  {
+    "freq": 2,
+    "word": "sightseeing",
+    "phonetic": "['saitsi:iŋ]",
+    "meaning": "n.观光"
+  },
+  {
+    "freq": 2,
+    "word": "behaviour",
+    "phonetic": "[bɪˈheɪvjə(r)]",
+    "meaning": "n.行为,举止"
+  },
+  {
+    "freq": 2,
+    "word": "secretary",
+    "phonetic": "['sekrətri]",
+    "meaning": "n.秘书,部长,书记"
+  },
+  {
+    "freq": 2,
+    "word": "location",
+    "phonetic": "[ləu'keiʃən]",
+    "meaning": "n.位置,地点"
+  },
+  {
+    "freq": 2,
+    "word": "custom",
+    "phonetic": "['kʌstəm]",
+    "meaning": "n.习惯,风俗"
+  },
+  {
+    "freq": 2,
+    "word": "pioneer",
+    "phonetic": "[ˌpaɪəˈnɪə(r)]",
+    "meaning": "n.先驱,先锋 v.开辟"
+  },
+  {
+    "freq": 2,
+    "word": "shame",
+    "phonetic": "[ʃeim]",
+    "meaning": "n.羞耻,羞愧"
+  },
+  {
+    "freq": 2,
+    "word": "dozen",
+    "phonetic": "['dʌzn]",
+    "meaning": "n.一打,十二个"
+  },
+  {
+    "freq": 2,
+    "word": "sort",
+    "phonetic": "[sɔ:t]",
+    "meaning": "n.种类 v.分类"
+  },
+  {
+    "freq": 2,
+    "word": "beyond",
+    "phonetic": "[bi'jɔnd]",
+    "meaning": "prep.超出,在更远处"
+  },
+  {
+    "freq": 2,
+    "word": "mend",
+    "phonetic": "[mend]",
+    "meaning": "v./n.改进,修补"
+  },
+  {
+    "freq": 2,
+    "word": "ache",
+    "phonetic": "[eik]",
+    "meaning": "v./n.疼痛"
+  },
+  {
+    "freq": 2,
+    "word": "disturb",
+    "phonetic": "[dis'tə:b]",
+    "meaning": "v.打扰,妨碍"
+  },
+  {
+    "freq": 2,
+    "word": "overcome",
+    "phonetic": "[ˌəuvə'kʌm]",
+    "meaning": "v.战胜,克服"
+  },
+  {
+    "freq": 1,
+    "word": "reward",
+    "phonetic": "[ri'wɔ:d]",
+    "meaning": "n./v.报酬,奖赏"
+  },
+  {
+    "freq": 1,
+    "word": "servant",
+    "phonetic": "[ˈsɜːvənt]",
+    "meaning": "n.仆人"
+  },
+  {
+    "freq": 1,
+    "word": "prisoner",
+    "phonetic": "[ˈprɪznə(r)]",
+    "meaning": "n.囚犯"
+  },
+  {
+    "freq": 1,
+    "word": "ceiling",
+    "phonetic": "['si:liŋ]",
+    "meaning": "n.天花板,上限"
+  },
+  {
+    "freq": 1,
+    "word": "headline",
+    "phonetic": "['hedlain]",
+    "meaning": "n.头条新闻,大字标题"
+  },
+  {
+    "freq": 1,
+    "word": "boil",
+    "phonetic": "[bɔɪl]",
+    "meaning": "v.煮沸,烧开"
+  }
+]
