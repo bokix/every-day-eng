@@ -252,8 +252,8 @@ function renderCard() {
     $('btnFlip').textContent = '显示释义';
     speak(w.word);
   }
-  $('btnFlip').classList.remove('hidden');
-  $('gradeActions').classList.add('hidden');
+  // 按钮区:未翻转时只有"显示释义"占满,翻转后通过 .flipped class 切换为"记得/不记得"
+  document.querySelector('.card-actions').classList.remove('flipped');
 }
 
 // ---------- 翻转 ----------
@@ -273,8 +273,8 @@ $('btnFlip').addEventListener('click', () => {
     $('cardPhonetic').classList.remove('hidden');
     $('cardMeaning').classList.remove('hidden');
   }
-  $('btnFlip').classList.add('hidden');
-  $('gradeActions').classList.remove('hidden');
+  // 翻转后:加 .flipped 切换为"记得(80%)/不记得(20%)",记得按钮覆盖原显示释义位置
+  document.querySelector('.card-actions').classList.add('flipped');
 });
 
 // ---------- 评分 ----------

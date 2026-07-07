@@ -87,12 +87,29 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 .card-count { font-size: 14px; color: #888; }
 
 .card {
-  width: 100%; max-width: 520px; min-height: 320px; background: #fff;
+  width: 100%;
+    max-width: 520px;
+    height: 360px;
+    background: #fff;
   border-radius: 20px; box-shadow: 0 8px 30px rgba(0,0,0,.08);
-  padding: 36px 28px; display: flex; align-items: center; justify-content: center;
-  position: relative; transition: transform .2s;
+  padding: 28px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    transition: transform .2s;
+    overflow: hidden;
 }
-.card-face { width: 100%; text-align: center; }
+.card-face {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-height: 100%;
+  overflow: auto;
+}
 .word { font-size: 48px; font-weight: 700; color: #222; margin-bottom: 8px; word-break: break-word; letter-spacing: 1px; }
 
 /* 自然拼读标注颜色 */
@@ -123,12 +140,44 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 }
 .mnemonic::before { content: "💡 词根助记: "; font-weight: 700; }
 
-.card-actions { display: flex; gap: 16px; width: 100%; max-width: 520px; justify-content: center; }
+.card-actions {
+  display: flex;
+  gap: 12px;
+  width: 100%;
+  max-width: 520px;
+}
 .btn-action {
-  flex: 1; max-width: 220px; padding: 16px; border-radius: 14px; font-size: 18px; font-weight: 600;
-  transition: all .15s;
+  padding: 16px;
+    border-radius: 14px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: transform .15s;
 }
 .btn-action:active { transform: scale(.97); }
+/* 默认(未翻转):只有"显示释义"占满整行,宽度与卡片一致 */
+.btn-flip {
+  flex: 1;
+}
+
+.btn-wrong,
+.btn-right {
+  display: none;
+}
+
+/* 翻转后:"记得"占 80%(覆盖原"显示释义"位置,鼠标无需移动),"不记得"占 20% */
+.card-actions.flipped .btn-flip {
+  display: none;
+}
+
+.card-actions.flipped .btn-right {
+  display: block;
+  flex: 0 0 calc(80% - 6px);
+}
+
+.card-actions.flipped .btn-wrong {
+  display: block;
+  flex: 0 0 calc(20% - 6px);
+}
 .btn-flip { background: #fff; color: #4a6cf7; border: 2px solid #4a6cf7; }
 .btn-wrong { background: #fee; color: #c0392b; }
 .btn-right { background: #d4edda; color: #155724; }
@@ -181,7 +230,10 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   .phonetic { font-size: 28px; }
   .meaning { font-size: 32px; }
   .meaning-big { font-size: 64px; }
-  .card { min-height: 420px; padding: 48px; }
+                .card {
+                  height: 460px;
+                  padding: 40px;
+                }
   .btn-action { font-size: 24px; padding: 20px; }
   .dash-num { font-size: 48px; }
   .brand { font-size: 26px; }
@@ -192,7 +244,9 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 @media (min-width: 768px) and (max-width: 1199px) {
   .word { font-size: 56px; }
   .meaning { font-size: 26px; }
-  .card { min-height: 360px; }
+                .card {
+                  height: 400px;
+                }
 }
 
 /* === 手机 === */
@@ -200,7 +254,10 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   .dashboard { grid-template-columns: repeat(2, 1fr); }
   .word { font-size: 40px; }
   .meaning { font-size: 18px; }
-  .card { min-height: 280px; padding: 24px 18px; }
+                .card {
+                  height: 320px;
+                  padding: 20px 16px;
+                }
   .btn-action { font-size: 16px; padding: 14px; }
   .topbar { padding: 10px 14px; }
   .brand { font-size: 17px; }
